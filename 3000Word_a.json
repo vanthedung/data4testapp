@@ -1,0 +1,1744 @@
+﻿[
+	{
+		"No.": "1",
+		"Word": "a",
+		"Type": "det",
+		"Pronounce": " pron",
+		"Meaning": ""
+	},
+	{
+		"No.": "2",
+		"Word": "abandon",
+		"Type": "v",
+		"Pronounce": "ə'bændən",
+		"Meaning": "bỏ"
+	},
+	{
+		"No.": "3",
+		"Word": "abandoned",
+		"Type": "adj",
+		"Pronounce": "ə'bændənd",
+		"Meaning": "bị bỏ rơi"
+	},
+	{
+		"No.": "4",
+		"Word": "ability",
+		"Type": "n",
+		"Pronounce": "ə'biliti",
+		"Meaning": "khả năng"
+	},
+	{
+		"No.": "5",
+		"Word": "able",
+		"Type": "adj",
+		"Pronounce": "eibl",
+		"Meaning": "có năng lực"
+	},
+	{
+		"No.": "6",
+		"Word": "about",
+		"Type": "adv",
+		"Pronounce": " prep",
+		"Meaning": "ə'baut"
+	},
+	{
+		"No.": "7",
+		"Word": "above",
+		"Type": "prep",
+		"Pronounce": " adv",
+		"Meaning": "ə'bʌv"
+	},
+	{
+		"No.": "8",
+		"Word": "abroad",
+		"Type": "adv",
+		"Pronounce": "ə'brɔ:d",
+		"Meaning": "ở"
+	},
+	{
+		"No.": "9",
+		"Word": "absence",
+		"Type": "n",
+		"Pronounce": "æbsəns",
+		"Meaning": "sự vắng mặt"
+	},
+	{
+		"No.": "10",
+		"Word": "absent",
+		"Type": "adj",
+		"Pronounce": "æbsənt",
+		"Meaning": "vắng mặt"
+	},
+	{
+		"No.": "11",
+		"Word": "absolute",
+		"Type": "adj",
+		"Pronounce": "æbsəlu:t",
+		"Meaning": "tuyệt đối"
+	},
+	{
+		"No.": "12",
+		"Word": "absolutely",
+		"Type": "adv",
+		"Pronounce": "æbsəlu:tli",
+		"Meaning": "tuyệt đối"
+	},
+	{
+		"No.": "13",
+		"Word": "absorb",
+		"Type": "v",
+		"Pronounce": "əb'sɔ:b",
+		"Meaning": "thu hút"
+	},
+	{
+		"No.": "14",
+		"Word": "abuse",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ə'bju:s"
+	},
+	{
+		"No.": "15",
+		"Word": "academic",
+		"Type": "adj",
+		"Pronounce": "",
+		"Meaning": "ækə'demik"
+	},
+	{
+		"No.": "16",
+		"Word": "accent",
+		"Type": "n",
+		"Pronounce": "æksənt",
+		"Meaning": "trọng âm"
+	},
+	{
+		"No.": "17",
+		"Word": "accept",
+		"Type": "v",
+		"Pronounce": "ək'sept",
+		"Meaning": "chấp nhận"
+	},
+	{
+		"No.": "18",
+		"Word": "acceptable",
+		"Type": "adj",
+		"Pronounce": "ək'septəbl",
+		"Meaning": "có thể chấp nhận"
+	},
+	{
+		"No.": "19",
+		"Word": "access",
+		"Type": "n",
+		"Pronounce": "ækses",
+		"Meaning": "lối"
+	},
+	{
+		"No.": "20",
+		"Word": "accident",
+		"Type": "n",
+		"Pronounce": "æksidənt",
+		"Meaning": "tai nạn"
+	},
+	{
+		"No.": "21",
+		"Word": "accidental",
+		"Type": "adj",
+		"Pronounce": "",
+		"Meaning": "æksi'dentl"
+	},
+	{
+		"No.": "22",
+		"Word": "accidentally",
+		"Type": "adv",
+		"Pronounce": "",
+		"Meaning": "æksi'dentəli"
+	},
+	{
+		"No.": "23",
+		"Word": "accommodation",
+		"Type": "n",
+		"Pronounce": "ə",
+		"Meaning": "kɔmə'deiʃn"
+	},
+	{
+		"No.": "24",
+		"Word": "accompany",
+		"Type": "v",
+		"Pronounce": "ə'kʌmpəni",
+		"Meaning": "đi theo"
+	},
+	{
+		"No.": "25",
+		"Word": "according to",
+		"Type": "prep",
+		"Pronounce": "ə'kɔ:diɳ",
+		"Meaning": "theo"
+	},
+	{
+		"No.": "26",
+		"Word": "account",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ə'kaunt"
+	},
+	{
+		"No.": "27",
+		"Word": "accurate",
+		"Type": "adj",
+		"Pronounce": "ækjurit",
+		"Meaning": "đúng đắn"
+	},
+	{
+		"No.": "28",
+		"Word": "accurately",
+		"Type": "adv",
+		"Pronounce": "ækjuritli",
+		"Meaning": "đúng đắn"
+	},
+	{
+		"No.": "29",
+		"Word": "accuse",
+		"Type": "v",
+		"Pronounce": "ə'kju:z",
+		"Meaning": "tố cáo"
+	},
+	{
+		"No.": "30",
+		"Word": "achieve",
+		"Type": "v",
+		"Pronounce": "ə'tʃi:v",
+		"Meaning": "đạt được"
+	},
+	{
+		"No.": "31",
+		"Word": "achievement",
+		"Type": "n",
+		"Pronounce": "ə'tʃi:vmənt",
+		"Meaning": "thành tích"
+	},
+	{
+		"No.": "32",
+		"Word": "acid",
+		"Type": "n",
+		"Pronounce": "æsid",
+		"Meaning": "axit"
+	},
+	{
+		"No.": "33",
+		"Word": "acknowledge",
+		"Type": "v",
+		"Pronounce": "ək'nɔlidʤ",
+		"Meaning": "công nhận"
+	},
+	{
+		"No.": "34",
+		"Word": "acquire",
+		"Type": "v",
+		"Pronounce": "ə'kwaiə",
+		"Meaning": "dành được"
+	},
+	{
+		"No.": "35",
+		"Word": "across",
+		"Type": "adv",
+		"Pronounce": " prep",
+		"Meaning": "ə'krɔs"
+	},
+	{
+		"No.": "36",
+		"Word": "act",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ækt"
+	},
+	{
+		"No.": "37",
+		"Word": "action",
+		"Type": "n",
+		"Pronounce": "ækʃn",
+		"Meaning": "hành động"
+	},
+	{
+		"No.": "38",
+		"Word": "active",
+		"Type": "adj",
+		"Pronounce": "æktiv",
+		"Meaning": "tích cực hoạt động"
+	},
+	{
+		"No.": "39",
+		"Word": "actively",
+		"Type": "adv",
+		"Pronounce": "æktivli",
+		"Meaning": "tích cực hoạt động; nhanh nhẹn"
+	},
+	{
+		"No.": "40",
+		"Word": "activity",
+		"Type": "n",
+		"Pronounce": "æk'tiviti",
+		"Meaning": "sự tích cực"
+	},
+	{
+		"No.": "41",
+		"Word": "actor",
+		"Type": "n",
+		"Pronounce": "æktə",
+		"Meaning": "diễn viên nam"
+	},
+	{
+		"No.": "42",
+		"Word": "actress",
+		"Type": "n",
+		"Pronounce": "æktris",
+		"Meaning": "diễn viên nữ"
+	},
+	{
+		"No.": "43",
+		"Word": "actual",
+		"Type": "adj",
+		"Pronounce": "æktjuəl",
+		"Meaning": "thực tế"
+	},
+	{
+		"No.": "44",
+		"Word": "actually",
+		"Type": "adv",
+		"Pronounce": "æktjuəli",
+		"Meaning": "hiện nay"
+	},
+	{
+		"No.": "45",
+		"Word": "adapt",
+		"Type": "v",
+		"Pronounce": "ə'dæpt",
+		"Meaning": "tra"
+	},
+	{
+		"No.": "46",
+		"Word": "add",
+		"Type": "v",
+		"Pronounce": "æd",
+		"Meaning": "cộng"
+	},
+	{
+		"No.": "47",
+		"Word": "addition",
+		"Type": "n",
+		"Pronounce": "ə'diʃn",
+		"Meaning": "tính cộng"
+	},
+	{
+		"No.": "48",
+		"Word": "additional",
+		"Type": "adj",
+		"Pronounce": "ə'diʃənl",
+		"Meaning": "thêm vào"
+	},
+	{
+		"No.": "49",
+		"Word": "address",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ə'dres"
+	},
+	{
+		"No.": "50",
+		"Word": "adequate",
+		"Type": "adj",
+		"Pronounce": "ædikwit",
+		"Meaning": "đầy"
+	},
+	{
+		"No.": "51",
+		"Word": "adequately",
+		"Type": "adv",
+		"Pronounce": "ædikwitli",
+		"Meaning": "tương xứng"
+	},
+	{
+		"No.": "52",
+		"Word": "adjust",
+		"Type": "v",
+		"Pronounce": "ə'dʤʌst",
+		"Meaning": "sửa lại cho đúng"
+	},
+	{
+		"No.": "53",
+		"Word": "admiration",
+		"Type": "n",
+		"Pronounce": "",
+		"Meaning": "ædmə'reiʃn"
+	},
+	{
+		"No.": "54",
+		"Word": "admire",
+		"Type": "v",
+		"Pronounce": "əd'maiə",
+		"Meaning": "khâm phục"
+	},
+	{
+		"No.": "55",
+		"Word": "admit",
+		"Type": "v",
+		"Pronounce": "əd'mit",
+		"Meaning": "nhận vào"
+	},
+	{
+		"No.": "56",
+		"Word": "adopt",
+		"Type": "v",
+		"Pronounce": "ə'dɔpt",
+		"Meaning": "nhận làm con nuôi"
+	},
+	{
+		"No.": "57",
+		"Word": "adult",
+		"Type": "n",
+		"Pronounce": " adj",
+		"Meaning": "ædʌlt"
+	},
+	{
+		"No.": "58",
+		"Word": "advance",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "əd'vɑ:ns"
+	},
+	{
+		"No.": "59",
+		"Word": "advanced",
+		"Type": "adj",
+		"Pronounce": "əd'vɑ:nst",
+		"Meaning": "tiên tiến"
+	},
+	{
+		"No.": "60",
+		"Word": "advantage",
+		"Type": "n",
+		"Pronounce": "əb'vɑ:ntidʤ",
+		"Meaning": "sự thuận lợi"
+	},
+	{
+		"No.": "61",
+		"Word": "adventure",
+		"Type": "n",
+		"Pronounce": "əd'ventʃə",
+		"Meaning": "sự phiêu lưu"
+	},
+	{
+		"No.": "62",
+		"Word": "advertise",
+		"Type": "v",
+		"Pronounce": "ædvətaiz",
+		"Meaning": "báo cho biết"
+	},
+	{
+		"No.": "63",
+		"Word": "advertisement",
+		"Type": "n",
+		"Pronounce": "əd'və:tismənt",
+		"Meaning": "quảng cáo"
+	},
+	{
+		"No.": "64",
+		"Word": "advertising",
+		"Type": "n",
+		"Pronounce": "",
+		"Meaning": "sự quảng cáo"
+	},
+	{
+		"No.": "65",
+		"Word": "advice",
+		"Type": "n",
+		"Pronounce": "əd'vais",
+		"Meaning": "lời khuyên"
+	},
+	{
+		"No.": "66",
+		"Word": "advise",
+		"Type": "v",
+		"Pronounce": "əd'vaiz",
+		"Meaning": "khuyên"
+	},
+	{
+		"No.": "67",
+		"Word": "affair",
+		"Type": "n",
+		"Pronounce": "ə'feə",
+		"Meaning": "việc"
+	},
+	{
+		"No.": "68",
+		"Word": "affect",
+		"Type": "v",
+		"Pronounce": "ə'fekt",
+		"Meaning": "làm ảnh hưởng"
+	},
+	{
+		"No.": "69",
+		"Word": "affection",
+		"Type": "n",
+		"Pronounce": "ə'fekʃn",
+		"Meaning": "tình cảm"
+	},
+	{
+		"No.": "70",
+		"Word": "afford",
+		"Type": "v",
+		"Pronounce": "ə'fɔ:d",
+		"Meaning": "có thể"
+	},
+	{
+		"No.": "71",
+		"Word": "afraid",
+		"Type": "adj",
+		"Pronounce": "ə'freid",
+		"Meaning": "sợ"
+	},
+	{
+		"No.": "72",
+		"Word": "after",
+		"Type": "prep",
+		"Pronounce": " conj",
+		"Meaning": " adv"
+	},
+	{
+		"No.": "73",
+		"Word": "afternoon",
+		"Type": "n",
+		"Pronounce": "ɑ:ftə'nu:n",
+		"Meaning": "buổi chiều"
+	},
+	{
+		"No.": "74",
+		"Word": "afterwards",
+		"Type": "adv",
+		"Pronounce": "ɑ:ftəwəd",
+		"Meaning": "sau này"
+	},
+	{
+		"No.": "75",
+		"Word": "again",
+		"Type": "adv",
+		"Pronounce": "ə'gen",
+		"Meaning": "lại"
+	},
+	{
+		"No.": "76",
+		"Word": "against",
+		"Type": "prep",
+		"Pronounce": "ə'geinst",
+		"Meaning": "chống lại"
+	},
+	{
+		"No.": "77",
+		"Word": "age",
+		"Type": "n",
+		"Pronounce": "eidʤ",
+		"Meaning": "tuổi"
+	},
+	{
+		"No.": "78",
+		"Word": "aged",
+		"Type": "adj",
+		"Pronounce": "eidʤid",
+		"Meaning": "già đi"
+	},
+	{
+		"No.": "79",
+		"Word": "agency",
+		"Type": "n",
+		"Pronounce": "eidʤənsi",
+		"Meaning": "tác dụng"
+	},
+	{
+		"No.": "80",
+		"Word": "agent",
+		"Type": "n",
+		"Pronounce": "eidʤənt",
+		"Meaning": "đại lý"
+	},
+	{
+		"No.": "81",
+		"Word": "aggressive",
+		"Type": "adj",
+		"Pronounce": "ə'gresiv",
+		"Meaning": "xâm lược"
+	},
+	{
+		"No.": "82",
+		"Word": "ago",
+		"Type": "adv",
+		"Pronounce": "ə'gou",
+		"Meaning": "trước đây"
+	},
+	{
+		"No.": "83",
+		"Word": "agree",
+		"Type": "v",
+		"Pronounce": "ə'gri:",
+		"Meaning": "đồng ý"
+	},
+	{
+		"No.": "84",
+		"Word": "agreement",
+		"Type": "n",
+		"Pronounce": "ə'gri:mənt",
+		"Meaning": "sự đồng ý"
+	},
+	{
+		"No.": "85",
+		"Word": "ahead",
+		"Type": "adv",
+		"Pronounce": "ə'hed",
+		"Meaning": "trước"
+	},
+	{
+		"No.": "86",
+		"Word": "aid",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "eid"
+	},
+	{
+		"No.": "87",
+		"Word": "aim",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "eim"
+	},
+	{
+		"No.": "88",
+		"Word": "air",
+		"Type": "n",
+		"Pronounce": "eə",
+		"Meaning": "không khí"
+	},
+	{
+		"No.": "89",
+		"Word": "aircraft",
+		"Type": "n",
+		"Pronounce": "eəkrɑ:ft",
+		"Meaning": "máy bay"
+	},
+	{
+		"No.": "90",
+		"Word": "airport",
+		"Type": "n",
+		"Pronounce": "",
+		"Meaning": "sân bay"
+	},
+	{
+		"No.": "91",
+		"Word": "alarm",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ə'lɑ:m"
+	},
+	{
+		"No.": "92",
+		"Word": "alarmed",
+		"Type": "adj",
+		"Pronounce": "ə'lɑ:m",
+		"Meaning": "báo động"
+	},
+	{
+		"No.": "93",
+		"Word": "alarming",
+		"Type": "adj",
+		"Pronounce": "ə'lɑ:miɳ",
+		"Meaning": "làm lo sợ"
+	},
+	{
+		"No.": "94",
+		"Word": "alcohol",
+		"Type": "n",
+		"Pronounce": "ælkəhɔl",
+		"Meaning": "rượu cồn"
+	},
+	{
+		"No.": "95",
+		"Word": "alcoholic",
+		"Type": "adj",
+		"Pronounce": " n",
+		"Meaning": ""
+	},
+	{
+		"No.": "96",
+		"Word": "alive",
+		"Type": "adj",
+		"Pronounce": "ə'laiv",
+		"Meaning": "sống"
+	},
+	{
+		"No.": "97",
+		"Word": "all",
+		"Type": "pron",
+		"Pronounce": " adv",
+		"Meaning": "ɔ:l"
+	},
+	{
+		"No.": "98",
+		"Word": "all right",
+		"Type": "adj",
+		"Pronounce": " adv",
+		"Meaning": " exclamation"
+	},
+	{
+		"No.": "99",
+		"Word": "allied",
+		"Type": "adj",
+		"Pronounce": "ə'laid",
+		"Meaning": "liên minh"
+	},
+	{
+		"No.": "100",
+		"Word": "allow",
+		"Type": "v",
+		"Pronounce": "ə'lau",
+		"Meaning": "cho phép"
+	},
+	{
+		"No.": "101",
+		"Word": "ally",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "æli"
+	},
+	{
+		"No.": "102",
+		"Word": "almost",
+		"Type": "adv",
+		"Pronounce": "ɔ:lmoust",
+		"Meaning": "hầu như"
+	},
+	{
+		"No.": "103",
+		"Word": "alone",
+		"Type": "adj",
+		"Pronounce": " adv",
+		"Meaning": "ə'loun"
+	},
+	{
+		"No.": "104",
+		"Word": "along",
+		"Type": "prep",
+		"Pronounce": " adv",
+		"Meaning": "ə'lɔɳ"
+	},
+	{
+		"No.": "105",
+		"Word": "alongside",
+		"Type": "prep",
+		"Pronounce": " adv",
+		"Meaning": "ə'lɔɳ'said"
+	},
+	{
+		"No.": "106",
+		"Word": "aloud",
+		"Type": "adv",
+		"Pronounce": "ə'laud",
+		"Meaning": "lớn tiếng"
+	},
+	{
+		"No.": "107",
+		"Word": "alphabet",
+		"Type": "n",
+		"Pronounce": "ælfəbit",
+		"Meaning": "bảng chữ cái"
+	},
+	{
+		"No.": "108",
+		"Word": "alphabetical",
+		"Type": "adj",
+		"Pronounce": "",
+		"Meaning": "æflə'betikl"
+	},
+	{
+		"No.": "109",
+		"Word": "alphabetically",
+		"Type": "adv",
+		"Pronounce": "",
+		"Meaning": "ælfə'betikəli"
+	},
+	{
+		"No.": "110",
+		"Word": "already",
+		"Type": "adv",
+		"Pronounce": "ɔ:l'redi",
+		"Meaning": "đã"
+	},
+	{
+		"No.": "111",
+		"Word": "also",
+		"Type": "adv",
+		"Pronounce": "ɔ:lsou",
+		"Meaning": "cũng"
+	},
+	{
+		"No.": "112",
+		"Word": "alter",
+		"Type": "v",
+		"Pronounce": "ɔ:ltə",
+		"Meaning": "thay đổi"
+	},
+	{
+		"No.": "113",
+		"Word": "alternative",
+		"Type": "n",
+		"Pronounce": " adj",
+		"Meaning": "ɔ:l'tə:nətiv"
+	},
+	{
+		"No.": "114",
+		"Word": "alternatively",
+		"Type": "adv",
+		"Pronounce": "",
+		"Meaning": "như một sự lựa chọn"
+	},
+	{
+		"No.": "115",
+		"Word": "although",
+		"Type": "conj",
+		"Pronounce": "ɔ:l'ðou",
+		"Meaning": "mặc dù"
+	},
+	{
+		"No.": "116",
+		"Word": "altogether",
+		"Type": "adv",
+		"Pronounce": "",
+		"Meaning": "ɔ:ltə'geðə"
+	},
+	{
+		"No.": "117",
+		"Word": "always",
+		"Type": "adv",
+		"Pronounce": "ɔ:lwəz",
+		"Meaning": "luôn luôn"
+	},
+	{
+		"No.": "118",
+		"Word": "amaze",
+		"Type": "v",
+		"Pronounce": "ə'meiz",
+		"Meaning": "làm ngạc nhiên"
+	},
+	{
+		"No.": "119",
+		"Word": "amazed",
+		"Type": "adj",
+		"Pronounce": "ə'meiz",
+		"Meaning": "kinh ngạc"
+	},
+	{
+		"No.": "120",
+		"Word": "amazing",
+		"Type": "adj",
+		"Pronounce": "ə'meiziɳ",
+		"Meaning": "kinh ngạc"
+	},
+	{
+		"No.": "121",
+		"Word": "ambition",
+		"Type": "n",
+		"Pronounce": "æm'biʃn",
+		"Meaning": "hoài bão"
+	},
+	{
+		"No.": "122",
+		"Word": "ambulance",
+		"Type": "n",
+		"Pronounce": "æmbjuləns",
+		"Meaning": "xe cứu thương"
+	},
+	{
+		"No.": "123",
+		"Word": "among",
+		"Type": " amongst",
+		"Pronounce": "prep",
+		"Meaning": "ə'mʌɳ"
+	},
+	{
+		"No.": "124",
+		"Word": "amount",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ə'maunt"
+	},
+	{
+		"No.": "125",
+		"Word": "amuse",
+		"Type": "v",
+		"Pronounce": "ə'mju:z",
+		"Meaning": "làm cho vui"
+	},
+	{
+		"No.": "126",
+		"Word": "amused",
+		"Type": "adj",
+		"Pronounce": "ə'mju:zd",
+		"Meaning": "vui thích"
+	},
+	{
+		"No.": "127",
+		"Word": "amusing",
+		"Type": "adj",
+		"Pronounce": "ə'mju:ziɳ",
+		"Meaning": "vui thích"
+	},
+	{
+		"No.": "128",
+		"Word": "analyse",
+		"Type": " analyze",
+		"Pronounce": "v",
+		"Meaning": "ænəlaiz"
+	},
+	{
+		"No.": "129",
+		"Word": "analysis",
+		"Type": "n",
+		"Pronounce": "ə'næləsis",
+		"Meaning": "sự phân tích"
+	},
+	{
+		"No.": "130",
+		"Word": "ancient",
+		"Type": "adj",
+		"Pronounce": "einʃənt",
+		"Meaning": "xưa"
+	},
+	{
+		"No.": "131",
+		"Word": "and",
+		"Type": "conj",
+		"Pronounce": "ænd",
+		"Meaning": " ənd"
+	},
+	{
+		"No.": "132",
+		"Word": "anger",
+		"Type": "n",
+		"Pronounce": "æɳgə",
+		"Meaning": "sự tức giận"
+	},
+	{
+		"No.": "133",
+		"Word": "angle",
+		"Type": "n",
+		"Pronounce": "æɳgl",
+		"Meaning": "góc"
+	},
+	{
+		"No.": "134",
+		"Word": "angrily",
+		"Type": "adv",
+		"Pronounce": "æɳgrili",
+		"Meaning": "tức giận"
+	},
+	{
+		"No.": "135",
+		"Word": "angry",
+		"Type": "adj",
+		"Pronounce": "æɳgri",
+		"Meaning": "giận"
+	},
+	{
+		"No.": "136",
+		"Word": "animal",
+		"Type": "n",
+		"Pronounce": "æniməl",
+		"Meaning": "động vật"
+	},
+	{
+		"No.": "137",
+		"Word": "ankle",
+		"Type": "n",
+		"Pronounce": "æɳkl",
+		"Meaning": "mắt cá chân"
+	},
+	{
+		"No.": "138",
+		"Word": "anniversary",
+		"Type": "n",
+		"Pronounce": "",
+		"Meaning": "æni'və:səri"
+	},
+	{
+		"No.": "139",
+		"Word": "announce",
+		"Type": "v",
+		"Pronounce": "ə'nauns",
+		"Meaning": "báo"
+	},
+	{
+		"No.": "140",
+		"Word": "annoy",
+		"Type": "v",
+		"Pronounce": "ə'nɔi",
+		"Meaning": "chọc tức"
+	},
+	{
+		"No.": "141",
+		"Word": "annoyed",
+		"Type": "adj",
+		"Pronounce": "ə'nɔid",
+		"Meaning": "bị khó chịu"
+	},
+	{
+		"No.": "142",
+		"Word": "annoying",
+		"Type": "adj",
+		"Pronounce": "ə'nɔiiɳ",
+		"Meaning": "chọc tức"
+	},
+	{
+		"No.": "143",
+		"Word": "annual",
+		"Type": "adj",
+		"Pronounce": "ænjuəl",
+		"Meaning": "hàng năm"
+	},
+	{
+		"No.": "144",
+		"Word": "annually",
+		"Type": "adv",
+		"Pronounce": "ænjuəli",
+		"Meaning": "hàng năm"
+	},
+	{
+		"No.": "145",
+		"Word": "another",
+		"Type": "det",
+		"Pronounce": " pron",
+		"Meaning": "ə'nʌðə"
+	},
+	{
+		"No.": "146",
+		"Word": "answer",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ɑ:nsə"
+	},
+	{
+		"No.": "147",
+		"Word": "anti",
+		"Type": "prefix",
+		"Pronounce": "",
+		"Meaning": "chống lại"
+	},
+	{
+		"No.": "148",
+		"Word": "anticipate",
+		"Type": "v",
+		"Pronounce": "æn'tisipeit",
+		"Meaning": "thấy trước"
+	},
+	{
+		"No.": "149",
+		"Word": "anxiety",
+		"Type": "n",
+		"Pronounce": "æɳ'zaiəti",
+		"Meaning": "mối lo âu"
+	},
+	{
+		"No.": "150",
+		"Word": "anxious",
+		"Type": "adj",
+		"Pronounce": "æɳkʃəs",
+		"Meaning": "lo âu"
+	},
+	{
+		"No.": "151",
+		"Word": "anxiously",
+		"Type": "adv",
+		"Pronounce": "æɳkʃəsli",
+		"Meaning": "lo âu"
+	},
+	{
+		"No.": "152",
+		"Word": "any",
+		"Type": "detpron",
+		"Pronounce": " adv",
+		"Meaning": ""
+	},
+	{
+		"No.": "153",
+		"Word": "anyone (anybod)",
+		"Type": "pron",
+		"Pronounce": "eniwʌn",
+		"Meaning": "người nào"
+	},
+	{
+		"No.": "154",
+		"Word": "anything",
+		"Type": "pron",
+		"Pronounce": "eniθiɳ",
+		"Meaning": "việc gì"
+	},
+	{
+		"No.": "155",
+		"Word": "anyway",
+		"Type": "adv",
+		"Pronounce": "eniwei",
+		"Meaning": "thế nào cũng được"
+	},
+	{
+		"No.": "156",
+		"Word": "anywhere",
+		"Type": "adv",
+		"Pronounce": "eniweə",
+		"Meaning": "bất cứ chỗ nào"
+	},
+	{
+		"No.": "157",
+		"Word": "apart",
+		"Type": "adv",
+		"Pronounce": "ə'pɑ:t",
+		"Meaning": "về một bên"
+	},
+	{
+		"No.": "158",
+		"Word": "apart from",
+		"Type": "prep",
+		"Pronounce": "ə'pɑ:t",
+		"Meaning": "ngoài… ra"
+	},
+	{
+		"No.": "159",
+		"Word": "apart from",
+		"Type": " aside from",
+		"Pronounce": "prep",
+		"Meaning": ""
+	},
+	{
+		"No.": "160",
+		"Word": "apartment",
+		"Type": "n",
+		"Pronounce": "ə'pɑ:tmənt",
+		"Meaning": "căn phòng"
+	},
+	{
+		"No.": "161",
+		"Word": "apologize",
+		"Type": "v",
+		"Pronounce": "ə'pɔlədʤaiz",
+		"Meaning": "xin lỗi"
+	},
+	{
+		"No.": "162",
+		"Word": "apparent",
+		"Type": "adj",
+		"Pronounce": "ə'pærənt",
+		"Meaning": "rõ ràng"
+	},
+	{
+		"No.": "163",
+		"Word": "apparently",
+		"Type": "adv",
+		"Pronounce": "",
+		"Meaning": "nhìn bên ngoài"
+	},
+	{
+		"No.": "164",
+		"Word": "appeal",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ə'pi:l"
+	},
+	{
+		"No.": "165",
+		"Word": "appear",
+		"Type": "v",
+		"Pronounce": "ə'piə",
+		"Meaning": "xuất hiện"
+	},
+	{
+		"No.": "166",
+		"Word": "appearance",
+		"Type": "n",
+		"Pronounce": "ə'piərəns",
+		"Meaning": "sự xuất hiện"
+	},
+	{
+		"No.": "167",
+		"Word": "apple",
+		"Type": "n",
+		"Pronounce": "æpl",
+		"Meaning": "quả táo"
+	},
+	{
+		"No.": "168",
+		"Word": "application",
+		"Type": "n",
+		"Pronounce": "",
+		"Meaning": "æpli'keiʃn"
+	},
+	{
+		"No.": "169",
+		"Word": "apply",
+		"Type": "v",
+		"Pronounce": "ə'plai",
+		"Meaning": "gắn vào"
+	},
+	{
+		"No.": "170",
+		"Word": "appoint",
+		"Type": "v",
+		"Pronounce": "ə'pɔint",
+		"Meaning": "bổ nhiệm"
+	},
+	{
+		"No.": "171",
+		"Word": "appointment",
+		"Type": "n",
+		"Pronounce": "ə'pɔintmənt",
+		"Meaning": "sự bổ nhiệm"
+	},
+	{
+		"No.": "172",
+		"Word": "appreciate",
+		"Type": "v",
+		"Pronounce": "ə'pri:ʃieit",
+		"Meaning": "thấy rõ; nhận thức"
+	},
+	{
+		"No.": "173",
+		"Word": "approach",
+		"Type": "v",
+		"Pronounce": " n",
+		"Meaning": "ə'proutʃ"
+	},
+	{
+		"No.": "174",
+		"Word": "appropriate (to",
+		"Type": " for)",
+		"Pronounce": "adj",
+		"Meaning": "ə'proupriit"
+	},
+	{
+		"No.": "175",
+		"Word": "approval",
+		"Type": "n",
+		"Pronounce": "ə'pru:vəl",
+		"Meaning": "sự tán thành"
+	},
+	{
+		"No.": "176",
+		"Word": "approve",
+		"Type": "of",
+		"Pronounce": " v",
+		"Meaning": "ə'pru:v"
+	},
+	{
+		"No.": "177",
+		"Word": "approving",
+		"Type": "adj",
+		"Pronounce": "ə'pru:viɳ",
+		"Meaning": "tán thành"
+	},
+	{
+		"No.": "178",
+		"Word": "approximate",
+		"Type": "adj",
+		"Pronounce": " to",
+		"Meaning": "ə'prɔksimit"
+	},
+	{
+		"No.": "179",
+		"Word": "approximately",
+		"Type": "adv",
+		"Pronounce": "ə'prɔksimitli",
+		"Meaning": "khoảng chừng"
+	},
+	{
+		"No.": "180",
+		"Word": "April (abbr Apr)",
+		"Type": "n",
+		"Pronounce": "eiprəl",
+		"Meaning": "tháng Tư"
+	},
+	{
+		"No.": "181",
+		"Word": "area",
+		"Type": "n",
+		"Pronounce": "eəriə",
+		"Meaning": "diện tích"
+	},
+	{
+		"No.": "182",
+		"Word": "argue",
+		"Type": "v",
+		"Pronounce": "ɑ:gju:",
+		"Meaning": "chứng tỏ"
+	},
+	{
+		"No.": "183",
+		"Word": "argument",
+		"Type": "n",
+		"Pronounce": "ɑ:gjumənt",
+		"Meaning": "lý lẽ"
+	},
+	{
+		"No.": "184",
+		"Word": "arise",
+		"Type": "v",
+		"Pronounce": "ə'raiz",
+		"Meaning": "xuất hiện"
+	},
+	{
+		"No.": "185",
+		"Word": "arm",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ɑ:m"
+	},
+	{
+		"No.": "186",
+		"Word": "armed",
+		"Type": "adj",
+		"Pronounce": "ɑ:md",
+		"Meaning": "vũ trang"
+	},
+	{
+		"No.": "187",
+		"Word": "arms",
+		"Type": "n",
+		"Pronounce": "",
+		"Meaning": "vũ khí"
+	},
+	{
+		"No.": "188",
+		"Word": "army",
+		"Type": "n",
+		"Pronounce": "ɑ:mi",
+		"Meaning": "quân đội"
+	},
+	{
+		"No.": "189",
+		"Word": "around",
+		"Type": "adv",
+		"Pronounce": " prep",
+		"Meaning": "ə'raund"
+	},
+	{
+		"No.": "190",
+		"Word": "arrange",
+		"Type": "v",
+		"Pronounce": "ə'reindʤ",
+		"Meaning": "sắp xếp"
+	},
+	{
+		"No.": "191",
+		"Word": "arrangement",
+		"Type": "n",
+		"Pronounce": "ə'reindʤmənt",
+		"Meaning": "sự sắp xếp"
+	},
+	{
+		"No.": "192",
+		"Word": "arrest",
+		"Type": "v",
+		"Pronounce": " n",
+		"Meaning": "ə'rest"
+	},
+	{
+		"No.": "193",
+		"Word": "arrival",
+		"Type": "n",
+		"Pronounce": "ə'raivəl",
+		"Meaning": "sự đến"
+	},
+	{
+		"No.": "194",
+		"Word": "arrive (at",
+		"Type": " in)",
+		"Pronounce": "v",
+		"Meaning": "ə'raiv"
+	},
+	{
+		"No.": "195",
+		"Word": "arrow",
+		"Type": "n",
+		"Pronounce": "ærou",
+		"Meaning": "tên"
+	},
+	{
+		"No.": "196",
+		"Word": "art",
+		"Type": "n",
+		"Pronounce": "ɑ:t",
+		"Meaning": "nghệ thuật"
+	},
+	{
+		"No.": "197",
+		"Word": "article",
+		"Type": "n",
+		"Pronounce": "ɑ:tikl",
+		"Meaning": "bài báo"
+	},
+	{
+		"No.": "198",
+		"Word": "artificial",
+		"Type": "adj",
+		"Pronounce": "",
+		"Meaning": "ɑ:ti'fiʃəl"
+	},
+	{
+		"No.": "199",
+		"Word": "artificially",
+		"Type": "adv",
+		"Pronounce": "",
+		"Meaning": "ɑ:ti'fiʃəli"
+	},
+	{
+		"No.": "200",
+		"Word": "artist",
+		"Type": "n",
+		"Pronounce": "ɑ:tist",
+		"Meaning": "nghệ sĩ"
+	},
+	{
+		"No.": "201",
+		"Word": "artistic",
+		"Type": "adj",
+		"Pronounce": "ɑ:'tistik",
+		"Meaning": "thuộc nghệ thuật"
+	},
+	{
+		"No.": "202",
+		"Word": "as",
+		"Type": "adv",
+		"Pronounce": " conj",
+		"Meaning": " prep"
+	},
+	{
+		"No.": "203",
+		"Word": "as well",
+		"Type": "",
+		"Pronounce": "",
+		"Meaning": "cũng"
+	},
+	{
+		"No.": "204",
+		"Word": "ashamed",
+		"Type": "adj",
+		"Pronounce": "ə'ʃeimd",
+		"Meaning": "ngượng"
+	},
+	{
+		"No.": "205",
+		"Word": "aside",
+		"Type": "adv",
+		"Pronounce": "ə'said",
+		"Meaning": "về một bên"
+	},
+	{
+		"No.": "206",
+		"Word": "ask",
+		"Type": "v",
+		"Pronounce": "ɑ:sk",
+		"Meaning": "hỏi"
+	},
+	{
+		"No.": "207",
+		"Word": "asleep",
+		"Type": "adj",
+		"Pronounce": "ə'sli:p",
+		"Meaning": "ngủ"
+	},
+	{
+		"No.": "208",
+		"Word": "aspect",
+		"Type": "n",
+		"Pronounce": "æspekt",
+		"Meaning": "vẻ bề ngoài"
+	},
+	{
+		"No.": "209",
+		"Word": "assist",
+		"Type": "v",
+		"Pronounce": "ə'sist",
+		"Meaning": "giúp"
+	},
+	{
+		"No.": "210",
+		"Word": "assistance",
+		"Type": "n",
+		"Pronounce": "ə'sistəns",
+		"Meaning": "sự giúp đỡ"
+	},
+	{
+		"No.": "211",
+		"Word": "assistant",
+		"Type": "n",
+		"Pronounce": " adj",
+		"Meaning": "ə'sistənt"
+	},
+	{
+		"No.": "212",
+		"Word": "associate",
+		"Type": "v",
+		"Pronounce": "ə'souʃiit",
+		"Meaning": "kết giao"
+	},
+	{
+		"No.": "với"
+	},
+	{
+		"No.": "213",
+		"Word": "association",
+		"Type": "n",
+		"Pronounce": "ə",
+		"Meaning": "sousi'eiʃn"
+	},
+	{
+		"No.": "214",
+		"Word": "assume",
+		"Type": "v",
+		"Pronounce": "ə'sju:m",
+		"Meaning": "mang"
+	},
+	{
+		"No.": "215",
+		"Word": "assure",
+		"Type": "v",
+		"Pronounce": "ə'ʃuə",
+		"Meaning": "đảm bảo"
+	},
+	{
+		"No.": "216",
+		"Word": "atmosphere",
+		"Type": "n",
+		"Pronounce": "ætməsfiə",
+		"Meaning": "khí quyển"
+	},
+	{
+		"No.": "217",
+		"Word": "atom",
+		"Type": "n",
+		"Pronounce": "ætəm",
+		"Meaning": "nguyên tử"
+	},
+	{
+		"No.": "218",
+		"Word": "attach",
+		"Type": "v",
+		"Pronounce": "ə'tætʃ",
+		"Meaning": "gắn"
+	},
+	{
+		"No.": "219",
+		"Word": "attached",
+		"Type": "adj",
+		"Pronounce": "",
+		"Meaning": "gắn bó"
+	},
+	{
+		"No.": "220",
+		"Word": "attack",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ə'tæk"
+	},
+	{
+		"No.": "221",
+		"Word": "attempt",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ə'tempt"
+	},
+	{
+		"No.": "222",
+		"Word": "attempted",
+		"Type": "adj",
+		"Pronounce": "ə'temptid",
+		"Meaning": "cố gắng"
+	},
+	{
+		"No.": "223",
+		"Word": "attend",
+		"Type": "v",
+		"Pronounce": "ə'tend",
+		"Meaning": "dự"
+	},
+	{
+		"No.": "224",
+		"Word": "attention",
+		"Type": "n",
+		"Pronounce": "ə'tenʃn",
+		"Meaning": "sự chú ý"
+	},
+	{
+		"No.": "225",
+		"Word": "attitude",
+		"Type": "n",
+		"Pronounce": "ætitju:d",
+		"Meaning": "thái độ"
+	},
+	{
+		"No.": "226",
+		"Word": "attorney",
+		"Type": "n",
+		"Pronounce": "ə'tə:ni",
+		"Meaning": "người được ủy quyền"
+	},
+	{
+		"No.": "227",
+		"Word": "attract",
+		"Type": "v",
+		"Pronounce": "ə'trækt",
+		"Meaning": "hút; thu hút"
+	},
+	{
+		"No.": "228",
+		"Word": "attraction",
+		"Type": "n",
+		"Pronounce": "ə'trækʃn",
+		"Meaning": "sự hút"
+	},
+	{
+		"No.": "229",
+		"Word": "attractive",
+		"Type": "adj",
+		"Pronounce": "ə'træktiv",
+		"Meaning": "hút"
+	},
+	{
+		"No.": "230",
+		"Word": "audience",
+		"Type": "n",
+		"Pronounce": "ɔ:djəns",
+		"Meaning": "thính"
+	},
+	{
+		"No.": "231",
+		"Word": "August (abbr Aug)",
+		"Type": "n",
+		"Pronounce": "ɔ:gəst - ɔ:'gʌst",
+		"Meaning": "tháng Tám"
+	},
+	{
+		"No.": "232",
+		"Word": "aunt",
+		"Type": "n",
+		"Pronounce": "ɑ:nt",
+		"Meaning": "cô"
+	},
+	{
+		"No.": "233",
+		"Word": "author",
+		"Type": "n",
+		"Pronounce": "ɔ:θə",
+		"Meaning": "tác giả"
+	},
+	{
+		"No.": "234",
+		"Word": "authority",
+		"Type": "n",
+		"Pronounce": "ɔ:'θɔriti",
+		"Meaning": "uy quyền"
+	},
+	{
+		"No.": "235",
+		"Word": "automatic",
+		"Type": "adj",
+		"Pronounce": "",
+		"Meaning": "ɔ:tə'mætik"
+	},
+	{
+		"No.": "236",
+		"Word": "automatically",
+		"Type": "adv",
+		"Pronounce": "",
+		"Meaning": "một cách tự động"
+	},
+	{
+		"No.": "237",
+		"Word": "autumn",
+		"Type": "n",
+		"Pronounce": "ɔ:təm",
+		"Meaning": "mùa thu (US: mùa thu là fall)"
+	},
+	{
+		"No.": "238",
+		"Word": "available",
+		"Type": "adj",
+		"Pronounce": "ə'veiləbl",
+		"Meaning": "có thể dùng được"
+	},
+	{
+		"No.": "239",
+		"Word": "average",
+		"Type": "adj",
+		"Pronounce": " n",
+		"Meaning": "ævəridʤ"
+	},
+	{
+		"No.": "240",
+		"Word": "avoid",
+		"Type": "v",
+		"Pronounce": "ə'vɔid",
+		"Meaning": "tránh"
+	},
+	{
+		"No.": "241",
+		"Word": "awake",
+		"Type": "adj",
+		"Pronounce": "ə'weik",
+		"Meaning": "đánh thức"
+	},
+	{
+		"No.": "242",
+		"Word": "award",
+		"Type": "n",
+		"Pronounce": " v",
+		"Meaning": "ə'wɔ:d"
+	},
+	{
+		"No.": "243",
+		"Word": "aware",
+		"Type": "adj",
+		"Pronounce": "ə'weə",
+		"Meaning": "biết"
+	},
+	{
+		"No.": "244",
+		"Word": "away",
+		"Type": "adv",
+		"Pronounce": "ə'wei",
+		"Meaning": "xa"
+	},
+	{
+		"No.": "245",
+		"Word": "awful",
+		"Type": "adj",
+		"Pronounce": "ɔ:ful",
+		"Meaning": "oai nghiêm"
+	},
+	{
+		"No.": "246",
+		"Word": "awfully",
+		"Type": "adv",
+		"Pronounce": "",
+		"Meaning": "tàn khốc"
+	},
+	{
+		"No.": "247",
+		"Word": "awkward",
+		"Type": "adj",
+		"Pronounce": "ɔ:kwəd",
+		"Meaning": "vụng về"
+	},
+	{
+		"No.": "248",
+		"Word": "awkwardly",
+		"Type": "adv",
+		"Pronounce": "",
+		"Meaning": "vụng về"
+	},
+	{
+		"No.": ""
+	}
+]
