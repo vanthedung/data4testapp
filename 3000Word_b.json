@@ -1,0 +1,1378 @@
+﻿[
+	{
+		"249": "250",
+		"back": "background",
+		"n": "n",
+		" adj": "bækgraund",
+		" adv": "phía sau; nền"
+	},
+	{
+		"249": "251",
+		"back": "backward",
+		"n": "adj",
+		" adj": "bækwəd",
+		" adv": "về phía sau",
+		" v": " lùi lại"
+	},
+	{
+		"249": "252",
+		"back": "backwards",
+		"n": "adv",
+		" adj": "bækwədz",
+		" adv": "ngược"
+	},
+	{
+		"249": "253",
+		"back": "bacteria",
+		"n": "n",
+		" adj": "bæk'tiəriəm",
+		" adv": "vi khuẩn"
+	},
+	{
+		"249": "254",
+		"back": "bad",
+		"n": "adj",
+		" adj": "bæd",
+		" adv": "xấu",
+		" v": " tồi. go bad bẩn thỉu",
+		"bæk": " thối",
+		"lưng": " hỏng"
+	},
+	{
+		"249": "255",
+		"back": "badly",
+		"n": "adv",
+		" adj": "bædli",
+		" adv": "xấu",
+		" v": " tồi"
+	},
+	{
+		"249": "256",
+		"back": "bad-tempered",
+		"n": "adj",
+		" adj": "bæd'tempəd",
+		" adv": "xấu tính",
+		" v": " dễ nổi cáu"
+	},
+	{
+		"249": "257",
+		"back": "bag",
+		"n": "n",
+		" adj": "bæg",
+		" adv": "bao",
+		" v": " túi",
+		"bæk": " cặp xách"
+	},
+	{
+		"249": "258",
+		"back": "baggage",
+		"n": "n",
+		" adj": "bædidʤ",
+		" adv": "hành lý"
+	},
+	{
+		"249": "259",
+		"back": "bake",
+		"n": "v",
+		" adj": "beik",
+		" adv": "nung",
+		" v": " nướng bằng lò"
+	},
+	{
+		"249": "260",
+		"back": "balance",
+		"n": "n",
+		" adj": " v",
+		" adv": "bæləns",
+		" v": "cái cân; làm cho cân bằng",
+		"bæk": " tương xứng"
+	},
+	{
+		"249": "261",
+		"back": "ball",
+		"n": "n",
+		" adj": "bɔ:l",
+		" adv": "quả bóng"
+	},
+	{
+		"249": "262",
+		"back": "ban",
+		"n": "v",
+		" adj": " n",
+		" adv": "bæn",
+		" v": "cấm",
+		"bæk": " cấm chỉ; sự cấm"
+	},
+	{
+		"249": "263",
+		"back": "band",
+		"n": "n",
+		" adj": "bænd",
+		" adv": "băng",
+		" v": " đai",
+		"bæk": " nẹp"
+	},
+	{
+		"249": "264",
+		"back": "bandage",
+		"n": "n",
+		" adj": " v",
+		" adv": "bændidʤ",
+		" v": "dải băng; băng bó"
+	},
+	{
+		"249": "265",
+		"back": "bank",
+		"n": "n",
+		" adj": "bæɳk",
+		" adv": "bờ (sông…) ",
+		" v": " đê"
+	},
+	{
+		"249": "266",
+		"back": "bar",
+		"n": "n",
+		" adj": "bɑ:",
+		" adv": "quán bán rượu"
+	},
+	{
+		"249": "267",
+		"back": "bargain",
+		"n": "n",
+		" adj": "bɑ:gin",
+		" adv": "sự mặc cả",
+		" v": " sự giao kèo mua bán"
+	},
+	{
+		"249": "268",
+		"back": "barrier",
+		"n": "n",
+		" adj": "bæriə",
+		" adv": "đặt chướng ngại vật"
+	},
+	{
+		"249": "269",
+		"back": "base",
+		"n": "n",
+		" adj": " v",
+		" adv": "beis",
+		" v": "cơ sở",
+		"bæk": " cơ bản",
+		"lưng": " nền móng; đặt tên",
+		" sau": " đặt cơ sở trên cái gì. based on dựa trên"
+	},
+	{
+		"249": "270",
+		"back": "basic",
+		"n": "adj",
+		" adj": "beisik",
+		" adv": "cơ bản",
+		" v": " cơ sở"
+	},
+	{
+		"249": "271",
+		"back": "basically",
+		"n": "adv",
+		" adj": "beisikəli",
+		" adv": "cơ bản",
+		" v": " về cơ bản"
+	},
+	{
+		"249": "272",
+		"back": "basis",
+		"n": "n",
+		" adj": "beisis",
+		" adv": "nền tảng",
+		" v": " cơ sở"
+	},
+	{
+		"249": "273",
+		"back": "bath",
+		"n": "n",
+		" adj": "bɑ:θ",
+		" adv": "sự tắm"
+	},
+	{
+		"249": "274",
+		"back": "bathroom",
+		"n": "n",
+		" adj": "",
+		" adv": "buồng tắm",
+		" v": " nhà vệ sinh"
+	},
+	{
+		"249": "275",
+		"back": "battery",
+		"n": "n",
+		" adj": "bætəri",
+		" adv": "pin",
+		" v": " ắc quy"
+	},
+	{
+		"249": "276",
+		"back": "battle",
+		"n": "n",
+		" adj": "bætl",
+		" adv": "trận đánh",
+		" v": " chiến thuật"
+	},
+	{
+		"249": "277",
+		"back": "bay",
+		"n": "n",
+		" adj": "bei",
+		" adv": "gian (nhà)",
+		" v": " nhịp (cầu)",
+		"bæk": " chuồng (ngựa); bays: vòng nguyệt quế",
+		"lưng": ""
+	},
+	{
+		"249": "vịnh"
+	},
+	{
+		"249": "278",
+		"back": "be sick",
+		"n": "",
+		" adj": "",
+		" adv": "bị ốm"
+	},
+	{
+		"249": "279",
+		"back": "beach",
+		"n": "n",
+		" adj": "bi:tʃ",
+		" adv": "bãi biển"
+	},
+	{
+		"249": "280",
+		"back": "beak",
+		"n": "n",
+		" adj": "bi:k",
+		" adv": "mỏ chim"
+	},
+	{
+		"249": "281",
+		"back": "bear",
+		"n": "v",
+		" adj": "beə",
+		" adv": "mang",
+		" v": " cầm",
+		"bæk": " vác",
+		"lưng": " đeo",
+		" sau": " ôm"
+	},
+	{
+		"249": "282",
+		"back": "beard",
+		"n": "n",
+		" adj": "biəd",
+		" adv": "râu"
+	},
+	{
+		"249": "283",
+		"back": "beat",
+		"n": "n",
+		" adj": " v",
+		" adv": "bi:t",
+		" v": "tiếng đập",
+		"bæk": " sự đập; đánh đập",
+		"lưng": " đấm"
+	},
+	{
+		"249": "284",
+		"back": "beautiful",
+		"n": "adj",
+		" adj": "bju:təful",
+		" adv": "đẹp"
+	},
+	{
+		"249": "285",
+		"back": "beautifully",
+		"n": "adv",
+		" adj": "bju:təfuli",
+		" adv": "tốt đẹp",
+		" v": " đáng hài lòng"
+	},
+	{
+		"249": "286",
+		"back": "beauty",
+		"n": "n",
+		" adj": "bju:ti",
+		" adv": "vẻ đẹp",
+		" v": " cái đẹp; người đẹp"
+	},
+	{
+		"249": "287",
+		"back": "because",
+		"n": "conj",
+		" adj": "bi'kɔz",
+		" adv": "bởi vì",
+		" v": " vì. because of prep. vì",
+		"bæk": " do bởi"
+	},
+	{
+		"249": "288",
+		"back": "become",
+		"n": "v",
+		" adj": "bi'kʌm",
+		" adv": "trở thành",
+		" v": " trở nên"
+	},
+	{
+		"249": "289",
+		"back": "bed",
+		"n": "n",
+		" adj": "bed",
+		" adv": "cái giường"
+	},
+	{
+		"249": "290",
+		"back": "bedroom",
+		"n": "n",
+		" adj": "bedrum",
+		" adv": "phòng ngủ"
+	},
+	{
+		"249": "291",
+		"back": "beef",
+		"n": "n",
+		" adj": "bi:f",
+		" adv": "thịt bò"
+	},
+	{
+		"249": "292",
+		"back": "beer",
+		"n": "n",
+		" adj": "bi:ə",
+		" adv": "rượu bia"
+	},
+	{
+		"249": "293",
+		"back": "before",
+		"n": "prep",
+		" adj": " conj",
+		" adv": " adv",
+		" v": "bi'fɔ:",
+		"bæk": "trước",
+		"lưng": " đằng trước"
+	},
+	{
+		"249": "294",
+		"back": "begin",
+		"n": "v",
+		" adj": "bi'gin",
+		" adv": "bắt đầu",
+		" v": " khởi đầu"
+	},
+	{
+		"249": "295",
+		"back": "beginning",
+		"n": "n",
+		" adj": "bi'giniɳ",
+		" adv": "phần đầu",
+		" v": " lúc bắt đầu",
+		"bæk": " lúc khởi đầu"
+	},
+	{
+		"249": "296",
+		"back": "behalf",
+		"n": "n",
+		" adj": "bi:hɑ:f",
+		" adv": "sự thay mặt. on behalf of sb thay mặt cho ai",
+		" v": " nhân danh ai"
+	},
+	{
+		"249": "297",
+		"back": "behalf",
+		"n": " on sb’s behalf",
+		" adj": "",
+		" adv": "",
+		" v": "nhân danh cá nhân ai"
+	},
+	{
+		"249": "298",
+		"back": "behave",
+		"n": "v",
+		" adj": "bi'heiv",
+		" adv": "đối xử",
+		" v": " ăn ở",
+		"bæk": " cư xử"
+	},
+	{
+		"249": "299",
+		"back": "behaviour",
+		"n": " behavior",
+		" adj": "n",
+		" adv": "",
+		" v": "thái độ",
+		"bæk": " cách đối xử; cách cư xử",
+		"lưng": " cách ăn ở; tư cách đạo đức"
+	},
+	{
+		"249": "300",
+		"back": "behind",
+		"n": "prep",
+		" adj": " adv",
+		" adv": "bi'haind",
+		" v": "sau",
+		"bæk": " ở đằng sau"
+	},
+	{
+		"249": "301",
+		"back": "belief",
+		"n": "n",
+		" adj": "bi'li:f",
+		" adv": "lòng tin",
+		" v": " đức tin",
+		"bæk": " sự tin tưởng"
+	},
+	{
+		"249": "302",
+		"back": "believe",
+		"n": "v",
+		" adj": "bi'li:v",
+		" adv": "tin",
+		" v": " tin tưởng"
+	},
+	{
+		"249": "303",
+		"back": "bell",
+		"n": "n",
+		" adj": "bel",
+		" adv": "cái chuông",
+		" v": " tiếng chuông"
+	},
+	{
+		"249": "304",
+		"back": "belong",
+		"n": "v",
+		" adj": "bi'lɔɳ",
+		" adv": "thuộc về",
+		" v": " của",
+		"bæk": " thuộc quyền sở hữu"
+	},
+	{
+		"249": "305",
+		"back": "below",
+		"n": "prep",
+		" adj": " adv",
+		" adv": "bi'lou",
+		" v": "ở dưới",
+		"bæk": " dưới thấp",
+		"lưng": " phía dưới"
+	},
+	{
+		"249": "306",
+		"back": "belt",
+		"n": "n",
+		" adj": "belt",
+		" adv": "dây lưng",
+		" v": " thắt lưng"
+	},
+	{
+		"249": "307",
+		"back": "bend",
+		"n": "v",
+		" adj": " n",
+		" adv": "bentʃ",
+		" v": "chỗ rẽ",
+		"bæk": " chỗ uốn; khuỷu tay; cúi xuống",
+		"lưng": " uốn cong"
+	},
+	{
+		"249": "308",
+		"back": "beneath",
+		"n": "prep",
+		" adj": " adv",
+		" adv": "bi'ni:θ",
+		" v": "ở dưới",
+		"bæk": " dưới thấp"
+	},
+	{
+		"249": "309",
+		"back": "benefit",
+		"n": "n",
+		" adj": " v",
+		" adv": "benifit",
+		" v": "lợi",
+		"bæk": " lợi ích; giúp ích",
+		"lưng": " làm lợi cho"
+	},
+	{
+		"249": "310",
+		"back": "bent",
+		"n": "adj",
+		" adj": "bent",
+		" adv": "khiếu",
+		" v": " sở thích",
+		"bæk": " khuynh hướng"
+	},
+	{
+		"249": "311",
+		"back": "beside",
+		"n": "prep",
+		" adj": "bi'said",
+		" adv": "bên cạnh",
+		" v": " so với"
+	},
+	{
+		"249": "312",
+		"back": "bet",
+		"n": "v",
+		" adj": " n",
+		" adv": "bet",
+		" v": "đánh cuộc",
+		"bæk": " cá cược; sự đánh cuộc"
+	},
+	{
+		"249": "313",
+		"back": "better",
+		"n": " best",
+		" adj": "adj",
+		" adv": "betə",
+		" v": " best",
+		"bæk": "tốt hơn",
+		"lưng": " tốt nhất"
+	},
+	{
+		"249": "314",
+		"back": "betting",
+		"n": "n",
+		" adj": "beting",
+		" adv": "sự đánh cuộc"
+	},
+	{
+		"249": "315",
+		"back": "between",
+		"n": "prep",
+		" adj": " adv",
+		" adv": "bi'twi:n",
+		" v": "giữa",
+		"bæk": " ở giữa"
+	},
+	{
+		"249": "316",
+		"back": "beyond",
+		"n": "prep",
+		" adj": " adv",
+		" adv": "bi'jɔnd",
+		" v": "ở xa",
+		"bæk": " phía bên kia"
+	},
+	{
+		"249": "317",
+		"back": "bicycle (bike)",
+		"n": "n",
+		" adj": "baisikl",
+		" adv": "xe đạp"
+	},
+	{
+		"249": "318",
+		"back": "bid",
+		"n": "v",
+		" adj": " n",
+		" adv": "bid",
+		" v": "đặt giá",
+		"bæk": " trả giá; sự đặt giá",
+		"lưng": " sự trả giá"
+	},
+	{
+		"249": "319",
+		"back": "big",
+		"n": "adj",
+		" adj": "big",
+		" adv": "to",
+		" v": " lớn"
+	},
+	{
+		"249": "320",
+		"back": "bill",
+		"n": "n",
+		" adj": "bil",
+		" adv": "hóa đơn",
+		" v": " giấy bạc"
+	},
+	{
+		"249": "321",
+		"back": "bin",
+		"n": "n",
+		" adj": "bin",
+		" adv": "thùng",
+		" v": " thùng đựng rượu"
+	},
+	{
+		"249": "322",
+		"back": "biology",
+		"n": "n",
+		" adj": "bai'ɔlədʤi",
+		" adv": "sinh vật học"
+	},
+	{
+		"249": "323",
+		"back": "bird",
+		"n": "n",
+		" adj": "bə:d",
+		" adv": "chim"
+	},
+	{
+		"249": "324",
+		"back": "birth",
+		"n": "n",
+		" adj": "bə:θ",
+		" adv": "sự ra đời",
+		" v": " sự sinh đẻ"
+	},
+	{
+		"249": "325",
+		"back": "birthday",
+		"n": "n",
+		" adj": "bə:θdei",
+		" adv": "ngày sinh",
+		" v": " sinh nhật"
+	},
+	{
+		"249": "326",
+		"back": "biscuit",
+		"n": "n",
+		" adj": "biskit",
+		" adv": "bánh quy"
+	},
+	{
+		"249": "327",
+		"back": "bit",
+		"n": "n",
+		" adj": "bit",
+		" adv": "miếng",
+		" v": " mảnh. a bit một chút",
+		"bæk": " một"
+	},
+	{
+		"249": "328",
+		"back": "bite",
+		"n": "v",
+		" adj": " n",
+		" adv": "bait",
+		" v": "cắn",
+		"bæk": " ngoạm; sự cắn",
+		"lưng": " sự ngoạm"
+	},
+	{
+		"249": "329",
+		"back": "bitter",
+		"n": "adj",
+		" adj": "bitə",
+		" adv": "đắng; đắng cay",
+		" v": " chua xót"
+	},
+	{
+		"249": "330",
+		"back": "bitterly",
+		"n": "adv",
+		" adj": "bitəli",
+		" adv": "đắng",
+		" v": " đắng cay",
+		"bæk": " chua xót"
+	},
+	{
+		"249": "331",
+		"back": "black",
+		"n": "adj",
+		" adj": " n",
+		" adv": "blæk",
+		" v": "đen; màu đen"
+	},
+	{
+		"249": "332",
+		"back": "blade",
+		"n": "n",
+		" adj": "bleid",
+		" adv": "lưỡi (dao",
+		" v": " kiếm); lá (cỏ",
+		"bæk": " cây); mái (chèo); cánh (chong chóng)"
+	},
+	{
+		"249": "333",
+		"back": "blame",
+		"n": "v",
+		" adj": " n",
+		" adv": "bleim",
+		" v": "khiển trách",
+		"bæk": " mắng trách; sự khiển trách",
+		"lưng": " sự mắng trách"
+	},
+	{
+		"249": "334",
+		"back": "blank",
+		"n": "adj",
+		" adj": " n",
+		" adv": "blæɳk",
+		" v": "trống",
+		"bæk": " để trắng; sự trống rỗng"
+	},
+	{
+		"249": "335",
+		"back": "blankly",
+		"n": "adv",
+		" adj": "blæɳkli",
+		" adv": "ngây ra",
+		" v": " không có thần"
+	},
+	{
+		"249": "336",
+		"back": "blind",
+		"n": "adj",
+		" adj": "blaind",
+		" adv": "đui",
+		" v": " mù"
+	},
+	{
+		"249": "337",
+		"back": "block",
+		"n": "n",
+		" adj": " v",
+		" adv": "blɔk",
+		" v": "khối",
+		"bæk": " tảng (đá); làm ngăn cản",
+		"lưng": " ngăn chặn"
+	},
+	{
+		"249": "338",
+		"back": "blonde (blond)",
+		"n": "adj",
+		" adj": " n",
+		" adv": " adj",
+		" v": "blɔnd",
+		"bæk": "hoe vàng",
+		"lưng": " mái tóc hoe vàng"
+	},
+	{
+		"249": "339",
+		"back": "blood",
+		"n": "n",
+		" adj": "blʌd",
+		" adv": "máu",
+		" v": " huyết; sự tàn sát",
+		"bæk": " chem giết"
+	},
+	{
+		"249": "340",
+		"back": "blow",
+		"n": "v",
+		" adj": " n",
+		" adv": "blou",
+		" v": "nở hoa; sự nở hoa"
+	},
+	{
+		"249": "341",
+		"back": "blue",
+		"n": "adj",
+		" adj": " n",
+		" adv": "blu:",
+		" v": "xanh",
+		"bæk": " màu xanh"
+	},
+	{
+		"249": "342",
+		"back": "board",
+		"n": "n",
+		" adj": " v",
+		" adv": "bɔ:d",
+		" v": "tấm ván; lát ván",
+		"bæk": " lót ván. on board trên tàu thủy"
+	},
+	{
+		"249": "343",
+		"back": "boat",
+		"n": "n",
+		" adj": "bout",
+		" adv": "tàu",
+		" v": " thuyền"
+	},
+	{
+		"249": "344",
+		"back": "body",
+		"n": "n",
+		" adj": "bɔdi",
+		" adv": "thân thể",
+		" v": " thân xác"
+	},
+	{
+		"249": "345",
+		"back": "boil",
+		"n": "v",
+		" adj": "bɔil",
+		" adv": "sôi",
+		" v": " luộc"
+	},
+	{
+		"249": "346",
+		"back": "bomb",
+		"n": "n",
+		" adj": " v",
+		" adv": "bɔm",
+		" v": "quả bom; oánh bom",
+		"bæk": " thả bom"
+	},
+	{
+		"249": "347",
+		"back": "bone",
+		"n": "n",
+		" adj": "boun",
+		" adv": "xương"
+	},
+	{
+		"249": "348",
+		"back": "book",
+		"n": "n",
+		" adj": " v",
+		" adv": "buk",
+		" v": "sách; ghi chép"
+	},
+	{
+		"249": "349",
+		"back": "boot",
+		"n": "n",
+		" adj": "bu:t",
+		" adv": "giày ống"
+	},
+	{
+		"249": "350",
+		"back": "border",
+		"n": "n",
+		" adj": "bɔ:də",
+		" adv": "bờ",
+		" v": " mép",
+		"bæk": " vỉa",
+		"lưng": " lề (đường)"
+	},
+	{
+		"249": "351",
+		"back": "bore",
+		"n": "v",
+		" adj": "bɔ:",
+		" adv": "buồn chán",
+		" v": " buồn tẻ"
+	},
+	{
+		"249": "352",
+		"back": "bored",
+		"n": "adj",
+		" adj": "",
+		" adv": "buồn chán"
+	},
+	{
+		"249": "353",
+		"back": "boring",
+		"n": "adj",
+		" adj": "bɔ:riɳ",
+		" adv": "buồn chán"
+	},
+	{
+		"249": "354",
+		"back": "born ( be born)",
+		"n": "v",
+		" adj": "bɔ:n",
+		" adv": "sinh",
+		" v": " đẻ"
+	},
+	{
+		"249": "355",
+		"back": "borrow",
+		"n": "v",
+		" adj": "bɔrou",
+		" adv": "vay",
+		" v": " mượn"
+	},
+	{
+		"249": "356",
+		"back": "boss",
+		"n": "n",
+		" adj": "bɔs",
+		" adv": "ông chủ",
+		" v": " thủ trưởng"
+	},
+	{
+		"249": "357",
+		"back": "both",
+		"n": "det",
+		" adj": " pron",
+		" adv": "bouθ",
+		" v": "cả hai"
+	},
+	{
+		"249": "358",
+		"back": "bother",
+		"n": "v",
+		" adj": "bɔðə",
+		" adv": "làm phiền",
+		" v": " quấy rầy",
+		"bæk": " làm bực mìn"
+	},
+	{
+		"249": "359",
+		"back": "bottle",
+		"n": "n",
+		" adj": "bɔtl",
+		" adv": "chai",
+		" v": " lọ"
+	},
+	{
+		"249": "360",
+		"back": "bottom",
+		"n": "n",
+		" adj": " adj",
+		" adv": "bɔtəm",
+		" v": "phần dưới cùng",
+		"bæk": " thấp nhất; cuối",
+		"lưng": " cuối cùng"
+	},
+	{
+		"249": "361",
+		"back": "bound (bound to)",
+		"n": "adj",
+		" adj": "baund",
+		" adv": "nhất định",
+		" v": " chắc chắn"
+	},
+	{
+		"249": "362",
+		"back": "bowl",
+		"n": "n",
+		" adj": "boul",
+		" adv": ""
+	},
+	{
+		"249": "363",
+		"back": "box",
+		"n": "n",
+		" adj": "bɔks",
+		" adv": "hộp",
+		" v": " thùng"
+	},
+	{
+		"249": "364",
+		"back": "boy",
+		"n": "n",
+		" adj": "bɔi",
+		" adv": "con trai",
+		" v": " thiếu niên"
+	},
+	{
+		"249": "365",
+		"back": "boyfriend",
+		"n": "n",
+		" adj": "",
+		" adv": "bạn trai"
+	},
+	{
+		"249": "366",
+		"back": "brain",
+		"n": "n",
+		" adj": "brein",
+		" adv": "óc não; đầu óc",
+		" v": " trí não"
+	},
+	{
+		"249": "367",
+		"back": "branch",
+		"n": "n",
+		" adj": "brɑ:ntʃ",
+		" adv": "ngành; nhành cây",
+		" v": " nhánh song",
+		"bæk": " ngả đường"
+	},
+	{
+		"249": "368",
+		"back": "brand",
+		"n": "n",
+		" adj": "brænd",
+		" adv": "nhãn (hàng hóa)"
+	},
+	{
+		"249": "369",
+		"back": "brave",
+		"n": "adj",
+		" adj": "breiv",
+		" adv": "gan dạ",
+		" v": " can đảm"
+	},
+	{
+		"249": "370",
+		"back": "bread",
+		"n": "n",
+		" adj": "bred",
+		" adv": "bánh mỳ"
+	},
+	{
+		"249": "371",
+		"back": "break",
+		"n": "v",
+		" adj": " n",
+		" adv": "breik",
+		" v": "bẻ gẫy",
+		"bæk": " đập vỡ; sự gãy",
+		"lưng": " sự vỡ"
+	},
+	{
+		"249": "372",
+		"back": "breakfast",
+		"n": "n",
+		" adj": "brekfəst",
+		" adv": "bữa điểm tâm",
+		" v": " bữa sáng"
+	},
+	{
+		"249": "373",
+		"back": "breast",
+		"n": "n",
+		" adj": "brest",
+		" adv": "ngực",
+		" v": " vú"
+	},
+	{
+		"249": "374",
+		"back": "breath",
+		"n": "n",
+		" adj": "breθ",
+		" adv": "hơi thở",
+		" v": " hơi"
+	},
+	{
+		"249": "375",
+		"back": "breathe",
+		"n": "v",
+		" adj": "bri:ð",
+		" adv": "hít",
+		" v": " thở"
+	},
+	{
+		"249": "376",
+		"back": "breathing",
+		"n": "n",
+		" adj": "bri:ðiɳ",
+		" adv": "sự hô hấp",
+		" v": " sự thở"
+	},
+	{
+		"249": "377",
+		"back": "breed",
+		"n": "v",
+		" adj": " n",
+		" adv": "bri:d",
+		" v": "nuôi dưỡng",
+		"bæk": " chăm sóc",
+		"lưng": " giáo dục; sinh đẻ; nòi giống"
+	},
+	{
+		"249": "378",
+		"back": "brick",
+		"n": "n",
+		" adj": "brik",
+		" adv": "gạch"
+	},
+	{
+		"249": "379",
+		"back": "bridge",
+		"n": "n",
+		" adj": "bridʤ",
+		" adv": "cái cầu"
+	},
+	{
+		"249": "380",
+		"back": "brief",
+		"n": "adj",
+		" adj": "bri:f",
+		" adv": "ngắn",
+		" v": " gọn",
+		"bæk": " vắn tắt"
+	},
+	{
+		"249": "381",
+		"back": "briefly",
+		"n": "adv",
+		" adj": "bri:fli",
+		" adv": "ngắn",
+		" v": " gọn",
+		"bæk": " vắn tắt",
+		"lưng": " tóm tắt"
+	},
+	{
+		"249": "382",
+		"back": "bright",
+		"n": "adj",
+		" adj": "brait",
+		" adv": "sáng",
+		" v": " sáng chói"
+	},
+	{
+		"249": "383",
+		"back": "brightly",
+		"n": "adv",
+		" adj": "braitli",
+		" adv": "sáng chói",
+		" v": " tươi"
+	},
+	{
+		"249": "384",
+		"back": "brilliant",
+		"n": "adj",
+		" adj": "briljənt",
+		" adv": "tỏa sáng",
+		" v": " rực rỡ",
+		"bæk": " chói lọi"
+	},
+	{
+		"249": "385",
+		"back": "bring",
+		"n": "v",
+		" adj": "briɳ",
+		" adv": "mang",
+		" v": " cầm ",
+		"bæk": " xách lại"
+	},
+	{
+		"249": "386",
+		"back": "broad",
+		"n": "adj",
+		" adj": "broutʃ",
+		" adv": "rộng"
+	},
+	{
+		"249": "387",
+		"back": "broadcast",
+		"n": "v",
+		" adj": " n",
+		" adv": "brɔ:dkɑ:st",
+		" v": "tung ra khắp nơi",
+		"bæk": "truyền rộng rãi; phát thanh",
+		"lưng": " quảng bá"
+	},
+	{
+		"249": "388",
+		"back": "broadly",
+		"n": "adv",
+		" adj": "brɔ:dli",
+		" adv": "rộng",
+		" v": " rộng rãi"
+	},
+	{
+		"249": "389",
+		"back": "broken",
+		"n": "adj",
+		" adj": "broukən",
+		" adv": "bị gãy",
+		" v": " bị vỡ"
+	},
+	{
+		"249": "390",
+		"back": "brother",
+		"n": "n",
+		" adj": "brΔðз",
+		" adv": "anh",
+		" v": " em trai"
+	},
+	{
+		"249": "391",
+		"back": "brown",
+		"n": "adj",
+		" adj": " n",
+		" adv": "braun",
+		" v": "nâu",
+		"bæk": " màu nâu"
+	},
+	{
+		"249": "392",
+		"back": "brush",
+		"n": "n",
+		" adj": " v",
+		" adv": "brΔ∫",
+		" v": "bàn chải; chải",
+		"bæk": " quét"
+	},
+	{
+		"249": "393",
+		"back": "bubble",
+		"n": "n",
+		" adj": "bΔbl",
+		" adv": "bong bóng",
+		" v": " bọt",
+		"bæk": " tăm"
+	},
+	{
+		"249": "394",
+		"back": "budget",
+		"n": "n",
+		" adj": "ˈbʌdʒɪt",
+		" adv": "ngân sách"
+	},
+	{
+		"249": "395",
+		"back": "build",
+		"n": "v",
+		" adj": "bild",
+		" adv": "xây dựng"
+	},
+	{
+		"249": "396",
+		"back": "building",
+		"n": "n",
+		" adj": "bildiŋ",
+		" adv": "sự xây dựng",
+		" v": " công trình xây dựng tòa nhà"
+	},
+	{
+		"249": "397",
+		"back": "bullet",
+		"n": "n",
+		" adj": "bulit",
+		" adv": "đạn (súng trường",
+		" v": " súng lục)"
+	},
+	{
+		"249": "398",
+		"back": "bunch",
+		"n": "n",
+		" adj": "bΛnt∫",
+		" adv": "búi",
+		" v": " chùm",
+		"bæk": " bó",
+		"lưng": " cụm",
+		" sau": " buồng; bầy",
+		" về phía sau": " đàn"
+	},
+	{
+		"249": "399",
+		"back": "burn",
+		"n": "v",
+		" adj": "bə:n",
+		" adv": "đốt",
+		" v": " đốt cháy",
+		"bæk": " thắp",
+		"lưng": " nung",
+		" sau": " thiêu"
+	},
+	{
+		"249": "400",
+		"back": "burnt",
+		"n": "adj",
+		" adj": "bə:nt",
+		" adv": "bị đốt",
+		" v": " bị cháy",
+		"bæk": " khê; rám nắng",
+		"lưng": " sạm (da)"
+	},
+	{
+		"249": "401",
+		"back": "burst",
+		"n": "v",
+		" adj": "bə:st",
+		" adv": "nổ",
+		" v": " nổ tung (bom",
+		"bæk": " đạn); nổ",
+		"lưng": " vỡ (bong bóng); háo hức"
+	},
+	{
+		"249": "402",
+		"back": "bury",
+		"n": "v",
+		" adj": "beri",
+		" adv": "chôn cất",
+		" v": " mai táng"
+	},
+	{
+		"249": "403",
+		"back": "bus",
+		"n": "n",
+		" adj": "bʌs",
+		" adv": "xe buýt"
+	},
+	{
+		"249": "404",
+		"back": "bush",
+		"n": "n",
+		" adj": "bu∫",
+		" adv": "bụi cây",
+		" v": " bụi rậm"
+	},
+	{
+		"249": "405",
+		"back": "business",
+		"n": "n",
+		" adj": "bizinis",
+		" adv": "việc buôn bán",
+		" v": " thương mại",
+		"bæk": " kinh doanh"
+	},
+	{
+		"249": "406",
+		"back": "businessman",
+		"n": " businesswoman",
+		" adj": "n",
+		" adv": "",
+		" v": "thương nhân"
+	},
+	{
+		"249": "407",
+		"back": "busy",
+		"n": "adj",
+		" adj": "´bizi",
+		" adv": "bận",
+		" v": " bận rộn"
+	},
+	{
+		"249": "408",
+		"back": "but",
+		"n": "conj",
+		" adj": "bʌt",
+		" adv": "nhưng"
+	},
+	{
+		"249": "409",
+		"back": "butter",
+		"n": "n",
+		" adj": "bʌtə",
+		" adv": "bơ"
+	},
+	{
+		"249": "410",
+		"back": "button",
+		"n": "n",
+		" adj": "bʌtn",
+		" adv": "cái nút",
+		" v": " cái khuy",
+		"bæk": " cúc"
+	},
+	{
+		"249": "411",
+		"back": "buy",
+		"n": "v",
+		" adj": "bai",
+		" adv": "mua"
+	},
+	{
+		"249": "412",
+		"back": "buyer",
+		"n": "n",
+		" adj": "´baiə",
+		" adv": "người mua"
+	},
+	{
+		"249": "413",
+		"back": "by",
+		"n": "prep",
+		" adj": " adv",
+		" adv": "bai",
+		" v": "bởi",
+		"bæk": " bằng"
+	},
+	{
+		"249": "414",
+		"back": "bye",
+		"n": "exclamation",
+		" adj": "bai",
+		" adv": "tạm biệt"
+	},
+	{
+		"249": ""
+	}
+]
