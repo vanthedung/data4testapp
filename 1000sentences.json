@@ -1,0 +1,4252 @@
+﻿[
+	{
+		"No": "1",
+		"Sentence": "Certainly!",
+		"Meaning": "Dĩ nhiên"
+	},
+	{
+		"No": "2",
+		"Sentence": "Gooding afternoon.",
+		"Meaning": "Chào (buổi chiều)"
+	},
+	{
+		"No": "3",
+		"Sentence": "Good evening sir.",
+		"Meaning": "Chào ông (buổi tối)"
+	},
+	{
+		"No": "4",
+		"Sentence": "Good luck",
+		"Meaning": "Chúc may mắn"
+	},
+	{
+		"No": "5",
+		"Sentence": "Good morning",
+		"Meaning": "Chào (buổi sáng)"
+	},
+	{
+		"No": "6",
+		"Sentence": "Great",
+		"Meaning": "Tuyệt"
+	},
+	{
+		"No": "7",
+		"Sentence": "Happy Birthday",
+		"Meaning": "Chúc mừng sinh nhật"
+	},
+	{
+		"No": "8",
+		"Sentence": "Have a good trip.",
+		"Meaning": "Chúc một chuyến đi tốt đẹp"
+	},
+	{
+		"No": "9",
+		"Sentence": "Hello",
+		"Meaning": "Chào"
+	},
+	{
+		"No": "10",
+		"Sentence": "Nice to meet you",
+		"Meaning": "Rất vui được gặp bạn"
+	},
+	{
+		"No": "11",
+		"Sentence": "Please call me",
+		"Meaning": "Làm ơn gọi cho tôi"
+	},
+	{
+		"No": "12",
+		"Sentence": "Are you busy?",
+		"Meaning": "Bạn có bận không?"
+	},
+	{
+		"No": "13",
+		"Sentence": "Can we have some more bread please?",
+		"Meaning": "Làm ơn cho thêm ít bánh mì."
+	},
+	{
+		"No": "14",
+		"Sentence": "Do you have any money?",
+		"Meaning": "Bạn có tiền không?"
+	},
+	{
+		"No": "15",
+		"Sentence": "For how many nights?",
+		"Meaning": "Cho mấy đêm?"
+	},
+	{
+		"No": "16",
+		"Sentence": "How long will you be staying?",
+		"Meaning": "Bạn sẽ ở bao lâu?"
+	},
+	{
+		"No": "17",
+		"Sentence": "I need a doctor.",
+		"Meaning": "Tôi cần một bác sĩ."
+	},
+	{
+		"No": "18",
+		"Sentence": "I'd like a map of the city",
+		"Meaning": "Tôi muốn một tấm bản đồ của thành phố."
+	},
+	{
+		"No": "19",
+		"Sentence": "I'd like a non-smoking room",
+		"Meaning": "Tôi muốn một phòng không hút thuốc"
+	},
+	{
+		"No": "20",
+		"Sentence": "I'd like a room with two beds please",
+		"Meaning": "Tôi muốn một phòng với 2 giường, xin vui lòng"
+	},
+	{
+		"No": "21",
+		"Sentence": "I'd like a room",
+		"Meaning": "Tôi muốn một phòng"
+	},
+	{
+		"No": "22",
+		"Sentence": "Is there a night club in town?",
+		"Meaning": "Có hộp đêm trong thị xã không?"
+	},
+	{
+		"No": "23",
+		"Sentence": "Is there a restaurant in the hotel?",
+		"Meaning": "Trong khách sạn có nhà hàng không?"
+	},
+	{
+		"No": "24",
+		"Sentence": "Is there a store near here?",
+		"Meaning": "Có cửa hàng gần đây không?"
+	},
+	{
+		"No": "25",
+		"Sentence": "Sorry, we don't have nay vacancies",
+		"Meaning": "Xin lỗi, chúng tôi không còn phòng trống"
+	},
+	{
+		"No": "26",
+		"Sentence": "Take me to the Marriott Hotel",
+		"Meaning": "Đưa tôi tới khách sạn Marriott"
+	},
+	{
+		"No": "27",
+		"Sentence": "What time is check out?",
+		"Meaning": "Mấy giờ trả phòng?"
+	},
+	{
+		"No": "28",
+		"Sentence": "What's the charge per night? (Hotel)",
+		"Meaning": "Giá bao nhiêu một đêm? (khách sạn)"
+	},
+	{
+		"No": "29",
+		"Sentence": "Where is the airport?",
+		"Meaning": "Sân bay ở đâu?"
+	},
+	{
+		"No": "30",
+		"Sentence": "Where's the mail box?",
+		"Meaning": "Hộp thư ở đâu?"
+	},
+	{
+		"No": "31",
+		"Sentence": "11 dollars",
+		"Meaning": "11 đô"
+	},
+	{
+		"No": "32",
+		"Sentence": "52 cents",
+		"Meaning": "52 xu"
+	},
+	{
+		"No": "33",
+		"Sentence": "A few",
+		"Meaning": "Một vài"
+	},
+	{
+		"No": "34",
+		"Sentence": "A little",
+		"Meaning": "Một ít"
+	},
+	{
+		"No": "35",
+		"Sentence": "Call the police",
+		"Meaning": "Gọi cảnh sát"
+	},
+	{
+		"No": "36",
+		"Sentence": "Did your wife like California?",
+		"Meaning": "Vợ của bạn có thích California không?"
+	},
+	{
+		"No": "37",
+		"Sentence": "Do you have any coffee?",
+		"Meaning": "Bạn có cà phê không?"
+	},
+	{
+		"No": "38",
+		"Sentence": "Do you have anything cheaper?",
+		"Meaning": "Bạn có thứ gì rẻ hơn không?"
+	},
+	{
+		"No": "39",
+		"Sentence": "Do you take credit cards?",
+		"Meaning": "Bạn có nhận thẻ tín dụng không?"
+	},
+	{
+		"No": "40",
+		"Sentence": "How are you paying?",
+		"Meaning": "Bạn trả bằng gì?"
+	},
+	{
+		"No": "41",
+		"Sentence": "How many people are there in New York?",
+		"Meaning": "Ở New York có bao nhiêu người?"
+	},
+	{
+		"No": "42",
+		"Sentence": "How much are these earrings?",
+		"Meaning": "Đôi bông tai này giá bao nhiêu?"
+	},
+	{
+		"No": "43",
+		"Sentence": "How much do I owe you?",
+		"Meaning": "Tôi nợ bạn bao nhiêu?"
+	},
+	{
+		"No": "44",
+		"Sentence": "How much does it cost per day?",
+		"Meaning": "Giá bao nhiêu một ngày?"
+	},
+	{
+		"No": "45",
+		"Sentence": "How muchs does this cost?",
+		"Meaning": "Nó giá bao nhiêu?"
+	},
+	{
+		"No": "46",
+		"Sentence": "How much is it to go to Miami?",
+		"Meaning": "Tới Miami giá bao nhiêu?"
+	},
+	{
+		"No": "47",
+		"Sentence": "How much money do you make?",
+		"Meaning": "Bạn kiếm bao nhiêu tiền"
+	},
+	{
+		"No": "48",
+		"Sentence": "I don't have a girlfriend",
+		"Meaning": "Tôi không có bạn gái."
+	},
+	{
+		"No": "49",
+		"Sentence": "I don't have any money",
+		"Meaning": "Tôi không có tiền"
+	},
+	{
+		"No": "50",
+		"Sentence": "I have a reservation",
+		"Meaning": "Tôi đã đặt trước"
+	},
+	{
+		"No": "51",
+		"Sentence": "I need to practice my English",
+		"Meaning": "Tôi cần thực hành tiếng Anh."
+	},
+	{
+		"No": "52",
+		"Sentence": "I'd like to eat at 5th street restaurant",
+		"Meaning": "Tôi muốn ăn ở nhà hàng trên đường số 5"
+	},
+	{
+		"No": "53",
+		"Sentence": "I'll have the same thing.",
+		"Meaning": "Tôi sẽ có cùng món như vậy"
+	},
+	{
+		"No": "54",
+		"Sentence": "I'll pay for dinner",
+		"Meaning": "Tôi sẽ trả tiền cho bữa tối"
+	},
+	{
+		"No": "55",
+		"Sentence": "I'll pay for the tickets",
+		"Meaning": "Tôi sẽ trả tiền vé"
+	},
+	{
+		"No": "56",
+		"Sentence": "I'm 26 years old",
+		"Meaning": "Tôi 26 tuổi"
+	},
+	{
+		"No": "57",
+		"Sentence": "Is that ok?",
+		"Meaning": "Như vậy được không?"
+	},
+	{
+		"No": "58",
+		"Sentence": "Is there any mail for me?",
+		"Meaning": "Có thư cho tôi không?"
+	},
+	{
+		"No": "59",
+		"Sentence": "Isn't it?",
+		"Meaning": "Phải không?"
+	},
+	{
+		"No": "60",
+		"Sentence": "It's 11:30pm",
+		"Meaning": "Bây giờ là 11:30 tối"
+	},
+	{
+		"No": "61",
+		"Sentence": "It's is a quarter past nine",
+		"Meaning": "Bây giờ là 9 giờ 15"
+	},
+	{
+		"No": "62",
+		"Sentence": "Please come in",
+		"Meaning": "Làm ơn vào đi"
+	},
+	{
+		"No": "63",
+		"Sentence": "Sorry, we don't accept credit cards",
+		"Meaning": "Xin lỗi, chúng tôi không nhận thẻ tín dụng"
+	},
+	{
+		"No": "64",
+		"Sentence": "Sorry, we only accept Cast",
+		"Meaning": "Xin lỗi, chúng tôi chỉ nhận tiền mặt"
+	},
+	{
+		"No": "65",
+		"Sentence": "That restaurant is not expensive",
+		"Meaning": "Nhà hàng đó không đắt"
+	},
+	{
+		"No": "66",
+		"Sentence": "That's too expensive",
+		"Meaning": "Như vậy quá đắt"
+	},
+	{
+		"No": "67",
+		"Sentence": "There are many people here",
+		"Meaning": "Ở đây có nhiều người"
+	},
+	{
+		"No": "68",
+		"Sentence": "They charge 26 dollars per day",
+		"Meaning": "Họ tính 26 đô một ngày"
+	},
+	{
+		"No": "69",
+		"Sentence": "What's the exchange rate for dollars",
+		"Meaning": "Hối suất đô la là bao nhiêu?"
+	},
+	{
+		"No": "70",
+		"Sentence": "What's the phone number?",
+		"Meaning": "Số điện thoại là gì?"
+	},
+	{
+		"No": "71",
+		"Sentence": "Where can I buy tickets?",
+		"Meaning": "Tôi có thể mua vé ở đâu?"
+	},
+	{
+		"No": "72",
+		"Sentence": "Where would you like to meet?",
+		"Meaning": "Bạn muốn gặp nhau ở đâu?"
+	},
+	{
+		"No": "73",
+		"Sentence": "Wich one is better?",
+		"Meaning": "Cái nào tốt hơn?"
+	},
+	{
+		"No": "74",
+		"Sentence": "Across from the post office",
+		"Meaning": "Đối diện bưu điện"
+	},
+	{
+		"No": "75",
+		"Sentence": "At 3 o'clock",
+		"Meaning": "Lúc 3 giờ"
+	},
+	{
+		"No": "76",
+		"Sentence": "Be quiet",
+		"Meaning": "Hãy yên lặng"
+	},
+	{
+		"No": "77",
+		"Sentence": "Can you recommend a good restaurant?",
+		"Meaning": "Bạn có thể đề nghị một nhà hàng ngon không?"
+	},
+	{
+		"No": "78",
+		"Sentence": "He studies at Boston University",
+		"Meaning": "Anh ta học ở đại học Boston"
+	},
+	{
+		"No": "79",
+		"Sentence": "Here it is",
+		"Meaning": "Nó đây"
+	},
+	{
+		"No": "80",
+		"Sentence": "Here you are",
+		"Meaning": "Đây nè"
+	},
+	{
+		"No": "81",
+		"Sentence": "He's in the kitchen",
+		"Meaning": "Anh ta ở trong bếp"
+	},
+	{
+		"No": "82",
+		"Sentence": "How far is it to Chicago?",
+		"Meaning": "Tới Chicago bao xa?"
+	},
+	{
+		"No": "83",
+		"Sentence": "How far is it?",
+		"Meaning": "Nó bao xa?"
+	},
+	{
+		"No": "84",
+		"Sentence": "How many miles is it to Pennsylvania?",
+		"Meaning": "Tới Pennsylvania bao nhiêu dặm?"
+	},
+	{
+		"No": "85",
+		"Sentence": "I like to watch TV",
+		"Meaning": "Tôi thích xem tivi"
+	},
+	{
+		"No": "86",
+		"Sentence": "I was going to the library",
+		"Meaning": "Tôi sắp đi tới thư viện"
+	},
+	{
+		"No": "87",
+		"Sentence": "I was in the library",
+		"Meaning": "Tôi ở trong thư viện"
+	},
+	{
+		"No": "88",
+		"Sentence": "I'd like a single room",
+		"Meaning": "Tôi muốn một phòng đơn"
+	},
+	{
+		"No": "89",
+		"Sentence": "It's delicious!",
+		"Meaning": "Món này ngon!"
+	},
+	{
+		"No": "90",
+		"Sentence": "It's half past 11",
+		"Meaning": "Bây giờ là 11 giờ rưỡi"
+	},
+	{
+		"No": "91",
+		"Sentence": "It's less than 5 dollars",
+		"Meaning": "Nó ít hơn 5 đô"
+	},
+	{
+		"No": "92",
+		"Sentence": "It's more than 5 dollars",
+		"Meaning": "Nó hơn 5 đô"
+	},
+	{
+		"No": "93",
+		"Sentence": "It's near the Supermarket",
+		"Meaning": "Nó gần siêu thị"
+	},
+	{
+		"No": "94",
+		"Sentence": "It's not suppose to rain today",
+		"Meaning": "Hôm nay có lẽ không mưa"
+	},
+	{
+		"No": "95",
+		"Sentence": "It's O.K",
+		"Meaning": "Được rồi"
+	},
+	{
+		"No": "96",
+		"Sentence": "It's on 7th street",
+		"Meaning": "Nó trên đường số 7"
+	},
+	{
+		"No": "97",
+		"Sentence": "It's really hot",
+		"Meaning": "Thực là nóng"
+	},
+	{
+		"No": "98",
+		"Sentence": "It's suppose to rain tomorrow",
+		"Meaning": "Trời có thể mưa ngày mai"
+	},
+	{
+		"No": "99",
+		"Sentence": "Let's go",
+		"Meaning": "Chúng ta đi"
+	},
+	{
+		"No": "100",
+		"Sentence": "Maybe",
+		"Meaning": "Có lẽ"
+	},
+	{
+		"No": "101",
+		"Sentence": "More than 200 miles",
+		"Meaning": "Hơn 200 dặm"
+	},
+	{
+		"No": "102",
+		"Sentence": "My house is close to the bank",
+		"Meaning": "Nhà tôi gần ngân hàng"
+	},
+	{
+		"No": "103",
+		"Sentence": "Near the bank",
+		"Meaning": "Gần ngân hàng"
+	},
+	{
+		"No": "104",
+		"Sentence": "On the left",
+		"Meaning": "Bên trái"
+	},
+	{
+		"No": "105",
+		"Sentence": "On the right",
+		"Meaning": "Bên phải"
+	},
+	{
+		"No": "106",
+		"Sentence": "On the second floor",
+		"Meaning": "Trên tầng hai"
+	},
+	{
+		"No": "107",
+		"Sentence": "Outside the hotel",
+		"Meaning": "Bên ngoài khách sạn"
+	},
+	{
+		"No": "108",
+		"Sentence": "Over here",
+		"Meaning": "Ở đây"
+	},
+	{
+		"No": "109",
+		"Sentence": "Over there",
+		"Meaning": "Ở đằng kia"
+	},
+	{
+		"No": "110",
+		"Sentence": "The book is behind the table",
+		"Meaning": "Quyển sách ở sau cái bàn"
+	},
+	{
+		"No": "111",
+		"Sentence": "The book is in front of the table",
+		"Meaning": "Quyển sách ở trước cái bàn"
+	},
+	{
+		"No": "112",
+		"Sentence": "The book is near the table",
+		"Meaning": "Quyển sách ở gần cái bàn"
+	},
+	{
+		"No": "113",
+		"Sentence": "The book is next to the table",
+		"Meaning": "Quyển sách ở cạnh cái bàn"
+	},
+	{
+		"No": "114",
+		"Sentence": "The book is on top of the table",
+		"Meaning": "Quyển sách ở trên mặt bàn"
+	},
+	{
+		"No": "115",
+		"Sentence": "There are some books on the table",
+		"Meaning": "Có vài quyển sách trên bàn"
+	},
+	{
+		"No": "116",
+		"Sentence": "There's a book under the table",
+		"Meaning": "Có một quyển sách dưới bàn"
+	},
+	{
+		"No": "117",
+		"Sentence": "We're from California",
+		"Meaning": "Chúng tôi từ California"
+	},
+	{
+		"No": "118",
+		"Sentence": "What's the address?",
+		"Meaning": "Địa chỉ là gì?"
+	},
+	{
+		"No": "119",
+		"Sentence": "Where are you going?",
+		"Meaning": "Bạn sẽ đi đâu?"
+	},
+	{
+		"No": "120",
+		"Sentence": "Where is it?",
+		"Meaning": "Nó ở đâu?"
+	},
+	{
+		"No": "121",
+		"Sentence": "Where would you like to go?",
+		"Meaning": "Bạn muốn đi đâu?"
+	},
+	{
+		"No": "122",
+		"Sentence": "Who won?",
+		"Meaning": "Ai đã thắng"
+	},
+	{
+		"No": "123",
+		"Sentence": "Can I see your passport please?",
+		"Meaning": "Làm ơn cho xem thông hành của bạn"
+	},
+	{
+		"No": "124",
+		"Sentence": "Can I take a message?",
+		"Meaning": "Tôi có thể nhận một lời nhắn không?"
+	},
+	{
+		"No": "125",
+		"Sentence": "Can I try it on?",
+		"Meaning": "Tôi có thể mặc thử không?"
+	},
+	{
+		"No": "126",
+		"Sentence": "Can we sit over there?",
+		"Meaning": "Chúng tôi có thể ngồi ở đằng kia không?"
+	},
+	{
+		"No": "127",
+		"Sentence": "Did you come with your family?",
+		"Meaning": "Bạn tới với gia đình hả?"
+	},
+	{
+		"No": "128",
+		"Sentence": "Do you think it's possible?",
+		"Meaning": "Bạn có nghĩ điều đó có thể xảy ra không?"
+	},
+	{
+		"No": "129",
+		"Sentence": "Here's my number",
+		"Meaning": "Đây là số của tôi"
+	},
+	{
+		"No": "130",
+		"Sentence": "He's not in right now",
+		"Meaning": "Ngay lúc này anh ta không có đây"
+	},
+	{
+		"No": "131",
+		"Sentence": "Hi, is Mrs. Smith there, please?",
+		"Meaning": "Chào, có phải bà Smith ở đằng kia không?"
+	},
+	{
+		"No": "132",
+		"Sentence": "I have three children, two girls and one\r\nboy",
+		"Meaning": "Tôi có 3 người con, 2 gái 1 trai"
+	},
+	{
+		"No": "133",
+		"Sentence": "I need some tisues",
+		"Meaning": "Tôi cần một ít khăn giấy"
+	},
+	{
+		"No": "134",
+		"Sentence": "I want to give you a gift",
+		"Meaning": "Tôi muốn tặng bạn một món quà"
+	},
+	{
+		"No": "135",
+		"Sentence": "I'd like some water too, please",
+		"Meaning": "Tôi cũng muốn một ít nước, xin vui lòng"
+	},
+	{
+		"No": "136",
+		"Sentence": "I'd like to buy a bottle of water, please",
+		"Meaning": "Tôi muốn mua một chai nước, xin vui lòng"
+	},
+	{
+		"No": "137",
+		"Sentence": "I'd like to buy something",
+		"Meaning": "Tôi muốn mua một món đồ"
+	},
+	{
+		"No": "138",
+		"Sentence": "I'd like to go to the store",
+		"Meaning": "Tôi muốn đến cửa hàng"
+	},
+	{
+		"No": "139",
+		"Sentence": "I'd like to rent a car",
+		"Meaning": "Tôi muốn thuê xe hơi"
+	},
+	{
+		"No": "140",
+		"Sentence": "I'd like to send a fax",
+		"Meaning": "Tôi muốn gửi phách"
+	},
+	{
+		"No": "141",
+		"Sentence": "I'd like to send this to America",
+		"Meaning": "Tôi muốn gửi cái này đi Mỹ"
+	},
+	{
+		"No": "142",
+		"Sentence": "I'd like to speak to Mr. Smith please",
+		"Meaning": "Tôi muốn nói chuyện với ông Smith, xin vui lòng"
+	},
+	{
+		"No": "143",
+		"Sentence": "I'll be right back",
+		"Meaning": "Tôi sẽ trở lại ngay"
+	},
+	{
+		"No": "144",
+		"Sentence": "I'll call back later",
+		"Meaning": "Tôi sẽ gọi lại sau"
+	},
+	{
+		"No": "145",
+		"Sentence": "I'll call you on Friday",
+		"Meaning": "Tôi sẽ gọi bạn vào thứ sáu"
+	},
+	{
+		"No": "146",
+		"Sentence": "I'll teach you",
+		"Meaning": "Tôi sẽ dạy bạn"
+	},
+	{
+		"No": "147",
+		"Sentence": "I'm ok",
+		"Meaning": "Tôi ổn"
+	},
+	{
+		"No": "148",
+		"Sentence": "Is there an English speaking guide?",
+		"Meaning": "Có hướng dẫn viên nói tiếng Anh không?"
+	},
+	{
+		"No": "149",
+		"Sentence": "Male or female?",
+		"Meaning": "Nam hay nữ?"
+	},
+	{
+		"No": "150",
+		"Sentence": "My cell phone doesn't have good\r\nreception",
+		"Meaning": "Điện thoại di dộng của tôi không nhận tín hiệu tốt"
+	},
+	{
+		"No": "151",
+		"Sentence": "My cell phone doesn't work",
+		"Meaning": "Điện thoại di động của tôi bị hỏng"
+	},
+	{
+		"No": "152",
+		"Sentence": "Please take off your shoes",
+		"Meaning": "Làm ơn cở giày ra"
+	},
+	{
+		"No": "153",
+		"Sentence": "Sorry, I think I have the wrong number",
+		"Meaning": "Xin lỗi, tôi nghĩ tôi gọi nhầm số"
+	},
+	{
+		"No": "154",
+		"Sentence": "What is the area code?",
+		"Meaning": "Mã vùng là bao nhiêu?"
+	},
+	{
+		"No": "155",
+		"Sentence": "What's the name of the company you\r\nwork for?",
+		"Meaning": "Tên của công ty bạn làm việc là gì?"
+	},
+	{
+		"No": "156",
+		"Sentence": "What's wrong?",
+		"Meaning": "Có gì đó không ổn?"
+	},
+	{
+		"No": "157",
+		"Sentence": "What's your address?",
+		"Meaning": "Địa chỉ của bạn là gì?"
+	},
+	{
+		"No": "158",
+		"Sentence": "Where can I find a hospital?",
+		"Meaning": "Tôi có thể tìm được một bệnh viện ở đâu?"
+	},
+	{
+		"No": "159",
+		"Sentence": "Where's the closest restaurant?",
+		"Meaning": "Nhà hàng gần nhất ở đâu?"
+	},
+	{
+		"No": "160",
+		"Sentence": "Where's the pharmacy?",
+		"Meaning": "Hiệu thuốc ở đâu?"
+	},
+	{
+		"No": "161",
+		"Sentence": "Who are you?",
+		"Meaning": "Bạn là ai?"
+	},
+	{
+		"No": "162",
+		"Sentence": "Who is that?",
+		"Meaning": "Đó là ai?"
+	},
+	{
+		"No": "163",
+		"Sentence": "Who would you like to speak to?",
+		"Meaning": "Bạn muốn nói chuyện với ai?"
+	},
+	{
+		"No": "164",
+		"Sentence": "Will you take me home?",
+		"Meaning": "Làm ơn đưa tôi về nhà"
+	},
+	{
+		"No": "165",
+		"Sentence": "Would you like water or milk?",
+		"Meaning": "Bạn muốn uống nước hay sữa?"
+	},
+	{
+		"No": "166",
+		"Sentence": "Are you here alone?",
+		"Meaning": "Bạn ở đây một mình?"
+	},
+	{
+		"No": "167",
+		"Sentence": "Can I bring my friend?",
+		"Meaning": "Tôi có thể mang theo bạn không?"
+	},
+	{
+		"No": "168",
+		"Sentence": "Can I have a receipt please?",
+		"Meaning": "Làm ơn đưa tôi hóa đơn"
+	},
+	{
+		"No": "169",
+		"Sentence": "Can it be cheaper?",
+		"Meaning": "Có thể rẻ hơn không?"
+	},
+	{
+		"No": "170",
+		"Sentence": "Can we have a menu please",
+		"Meaning": "Làm ơn đưa xem thực đơn"
+	},
+	{
+		"No": "171",
+		"Sentence": "Can you hold this for me?",
+		"Meaning": "Bạn có thể giữ giùm tôi cái này được không?"
+	},
+	{
+		"No": "172",
+		"Sentence": "Do you have any children?",
+		"Meaning": "Bạn có con không?"
+	},
+	{
+		"No": "173",
+		"Sentence": "Do you know how much it costs?",
+		"Meaning": "Bạn có biết nó giá bao nhiêu không?"
+	},
+	{
+		"No": "174",
+		"Sentence": "Have you eaten at that restaurant?",
+		"Meaning": "Bạn đã ăn ở nhà hàng này chưa?"
+	},
+	{
+		"No": "175",
+		"Sentence": "Have you eaten yet?",
+		"Meaning": "Bạn đã ăn chưa?"
+	},
+	{
+		"No": "176",
+		"Sentence": "Have you ever had Potato soup?",
+		"Meaning": "Bạn đã từng ăn xúp khoai tây chưa?"
+	},
+	{
+		"No": "177",
+		"Sentence": "He likes juice but he doesn't like milk",
+		"Meaning": "Anh ta thích nước trái cây nhưng không thích sữa"
+	},
+	{
+		"No": "178",
+		"Sentence": "Here is your salad",
+		"Meaning": "Rau của bạn đây"
+	},
+	{
+		"No": "179",
+		"Sentence": "Here's your order",
+		"Meaning": "Đây là mốn hàng bạn đặt"
+	},
+	{
+		"No": "180",
+		"Sentence": "How does it taste?",
+		"Meaning": "Nó có vị ra sao?"
+	},
+	{
+		"No": "181",
+		"Sentence": "How many people",
+		"Meaning": "Bao nhiêu người? (nhà hàng)"
+	},
+	{
+		"No": "182",
+		"Sentence": "I agree",
+		"Meaning": "Tôi đồng ý"
+	},
+	{
+		"No": "183",
+		"Sentence": "I haven't been there",
+		"Meaning": "Tôi đã không ở đó"
+	},
+	{
+		"No": "184",
+		"Sentence": "I haven's finished eating",
+		"Meaning": "Tôi chưa ăn xong"
+	},
+	{
+		"No": "185",
+		"Sentence": "I like it",
+		"Meaning": "Tôi thích nó"
+	},
+	{
+		"No": "186",
+		"Sentence": "I only have 5 dollars",
+		"Meaning": "Tôi chỉ có 5 đô la"
+	},
+	{
+		"No": "187",
+		"Sentence": "I think I need to see a doctor",
+		"Meaning": "Tôi nghĩ tôi cần gặp bác sĩ"
+	},
+	{
+		"No": "188",
+		"Sentence": "I understand",
+		"Meaning": "Tôi hiểu"
+	},
+	{
+		"No": "189",
+		"Sentence": "I'd like a table near the window",
+		"Meaning": "Tôi muốn một phòng gần cửa sổ"
+	},
+	{
+		"No": "190",
+		"Sentence": "I'd like to call the United States",
+		"Meaning": "Tôi muốn gọi sang Mỹ"
+	},
+	{
+		"No": "191",
+		"Sentence": "I'll give you a call",
+		"Meaning": "Tôi sẽ gọi điện cho bạn"
+	},
+	{
+		"No": "192",
+		"Sentence": "I'll have a cup of tea please",
+		"Meaning": "Tôi sẽ uống một tách trà, xin vui lòng"
+	},
+	{
+		"No": "193",
+		"Sentence": "I'll have a glass of water please",
+		"Meaning": "Tôi sẽ uống một ly nước, xin vui lòng"
+	},
+	{
+		"No": "194",
+		"Sentence": "I'm from America",
+		"Meaning": "Tôi từ Mỹ tới"
+	},
+	{
+		"No": "195",
+		"Sentence": "I'm going to bed",
+		"Meaning": "Tôi sẽ đi ngủ"
+	},
+	{
+		"No": "196",
+		"Sentence": "I'm here on business",
+		"Meaning": "Tôi ở đây để làm ăn"
+	},
+	{
+		"No": "197",
+		"Sentence": "I'm sorry",
+		"Meaning": "Tôi rất tiếc"
+	},
+	{
+		"No": "198",
+		"Sentence": "It's August 25th",
+		"Meaning": "Hôm nay là 25 tháng 8"
+	},
+	{
+		"No": "199",
+		"Sentence": "June 3rd",
+		"Meaning": "Mùng 3 tháng 6"
+	},
+	{
+		"No": "200",
+		"Sentence": "The food was delicious",
+		"Meaning": "Thức ăn ngon"
+	},
+	{
+		"No": "201",
+		"Sentence": "There are some apples in the refrigerator",
+		"Meaning": "Có vài trái táo trong tủ lạnh"
+	},
+	{
+		"No": "202",
+		"Sentence": "There's a restaurant near here",
+		"Meaning": "Có một nhà hàng gần đây"
+	},
+	{
+		"No": "203",
+		"Sentence": "There's a restaurant over there, but I\r\ndon't think it's very good",
+		"Meaning": "Có một nhà hàng ở đằng kia, nhưng tôi không\r\nnghĩ nó là nó ngon lắm"
+	},
+	{
+		"No": "204",
+		"Sentence": "Waiter!",
+		"Meaning": "Anh phục vụ!"
+	},
+	{
+		"No": "205",
+		"Sentence": "Waitress!",
+		"Meaning": "Cô phục vụ!"
+	},
+	{
+		"No": "206",
+		"Sentence": "We can eat Italian or Chinese food",
+		"Meaning": "Chúng tôi có thể ăn thức ăn Ý hoặc Trung Hoa"
+	},
+	{
+		"No": "207",
+		"Sentence": "We'll have two glasses of water please",
+		"Meaning": "Chúng tôi sẽ dùng hai ly nước, xin vui lòng"
+	},
+	{
+		"No": "208",
+		"Sentence": "What are you going to have?",
+		"Meaning": "Bạn sẽ dùng gì?"
+	},
+	{
+		"No": "209",
+		"Sentence": "What do you recommend?",
+		"Meaning": "Bạn đề nghị gì?"
+	},
+	{
+		"No": "210",
+		"Sentence": "What would you like to drink?",
+		"Meaning": "Bạn muốn uống gì?"
+	},
+	{
+		"No": "211",
+		"Sentence": "What would you like to eat?",
+		"Meaning": "Bạn muốn ăn gì?"
+	},
+	{
+		"No": "212",
+		"Sentence": "What's your email address?",
+		"Meaning": "Địa chỉ mail của bạn là gì?"
+	},
+	{
+		"No": "213",
+		"Sentence": "Where is an ATM?",
+		"Meaning": "Máy rút tiền tự động ở đâu?"
+	},
+	{
+		"No": "214",
+		"Sentence": "Where is there a doctor who speak\r\nEnglish?",
+		"Meaning": "Ở đâu có một bác sỹ nói Tiếng Anh?"
+	},
+	{
+		"No": "215",
+		"Sentence": "Which one?",
+		"Meaning": "Cái nào?"
+	},
+	{
+		"No": "216",
+		"Sentence": "Would you ask him to come here?",
+		"Meaning": "Làm ơn nói anh ta tới đây"
+	},
+	{
+		"No": "217",
+		"Sentence": "Would you like a glass of water?",
+		"Meaning": "Bạn muốn một ly nước không?"
+	},
+	{
+		"No": "218",
+		"Sentence": "Would you like coffee or tea?",
+		"Meaning": "Bạn muốn uống cà phê hay trà?"
+	},
+	{
+		"No": "219",
+		"Sentence": "Would you like some water?",
+		"Meaning": "Bạn muốn một ít nước không?"
+	},
+	{
+		"No": "220",
+		"Sentence": "Would you like some wine?",
+		"Meaning": "Bạn muốn một ít rượu không?"
+	},
+	{
+		"No": "221",
+		"Sentence": "Would you like something to drink?",
+		"Meaning": "Bạn muốn uống thứ gì không?"
+	},
+	{
+		"No": "222",
+		"Sentence": "Would you like to go for a walk?",
+		"Meaning": "Bạn muốn đi dạo không?"
+	},
+	{
+		"No": "223",
+		"Sentence": "Would you like to watch TV?",
+		"Meaning": "Bạn muốn xem tivi không?"
+	},
+	{
+		"No": "224",
+		"Sentence": "Are there any concert?",
+		"Meaning": "Có buổi hòa nhạc nào không?"
+	},
+	{
+		"No": "225",
+		"Sentence": "Do you want to go to the movies?",
+		"Meaning": "Bạn có muốn đi xem phim không?"
+	},
+	{
+		"No": "226",
+		"Sentence": "Have you seen this movie?",
+		"Meaning": "Bạn đã xem phim này chưa?"
+	},
+	{
+		"No": "227",
+		"Sentence": "He said you like to watch movies",
+		"Meaning": "Anh ta nói bạn thích xem phim"
+	},
+	{
+		"No": "228",
+		"Sentence": "How tall are you?",
+		"Meaning": "Bạn cao bao nhiêu?"
+	},
+	{
+		"No": "229",
+		"Sentence": "Is the bank far?",
+		"Meaning": "Ngân hàng có xa không?"
+	},
+	{
+		"No": "230",
+		"Sentence": "Is there a movie theater nearby?",
+		"Meaning": "Có rạp chiếu phim gần đây không?"
+	},
+	{
+		"No": "231",
+		"Sentence": "What do people usually do in the\r\nsummer in Los Angeles?",
+		"Meaning": "Người ta thường làm gì vào mùa hè ở Los\r\nAngeles?"
+	},
+	{
+		"No": "232",
+		"Sentence": "What kind of music do you like?",
+		"Meaning": "Bạn thích loại nhạc gì?"
+	},
+	{
+		"No": "233",
+		"Sentence": "What time does movie start?",
+		"Meaning": "Mấy giờ phim bắt đầu?"
+	},
+	{
+		"No": "234",
+		"Sentence": "What's your favorite food?",
+		"Meaning": "Thức ăn ưa thích của bạn là gì?"
+	},
+	{
+		"No": "235",
+		"Sentence": "Who was your teacher?",
+		"Meaning": "Ai đã là thầy giáo của bạn"
+	},
+	{
+		"No": "236",
+		"Sentence": "Would you like to have dinner with me?",
+		"Meaning": "Bạn có muốn ăn tối với tôi không?"
+	},
+	{
+		"No": "237",
+		"Sentence": "Would yoy like to rent a movie?",
+		"Meaning": "Bạn có muốn thuê phim không?"
+	},
+	{
+		"No": "238",
+		"Sentence": "A one way ticket",
+		"Meaning": "Vé một chiều"
+	},
+	{
+		"No": "239",
+		"Sentence": "A round trip ticket",
+		"Meaning": "Vé một chiều"
+	},
+	{
+		"No": "240",
+		"Sentence": "About 300 kilometers",
+		"Meaning": "Khoảng 300 cây số"
+	},
+	{
+		"No": "241",
+		"Sentence": "Are you going to help her?",
+		"Meaning": "Bạn sẽ giúp cô ta không?"
+	},
+	{
+		"No": "242",
+		"Sentence": "At what time?",
+		"Meaning": "Lúc mấy giờ?"
+	},
+	{
+		"No": "243",
+		"Sentence": "Can I make an appointment for\r\nnext Wednesday?",
+		"Meaning": "Tôi có thể xin hẹn vào thứ tư tới không?"
+	},
+	{
+		"No": "244",
+		"Sentence": "Can you repeat that please?",
+		"Meaning": "Bạn có thể lập lại điều đó được không?"
+	},
+	{
+		"No": "245",
+		"Sentence": "Do you have enough money?",
+		"Meaning": "Bạn có đủ tiền không?"
+	},
+	{
+		"No": "246",
+		"Sentence": "Do you Know how to cook?",
+		"Meaning": "Bạn có biết nấu ăn không?"
+	},
+	{
+		"No": "247",
+		"Sentence": "Do you know what this say?",
+		"Meaning": "Bạn có biết cái này nói gì không?"
+	},
+	{
+		"No": "248",
+		"Sentence": "Do you want me to come and pick you\r\nup?",
+		"Meaning": "Bạn có muốn tôi đến đón bạn không?"
+	},
+	{
+		"No": "249",
+		"Sentence": "Does this road go to New York?",
+		"Meaning": "Con đường này có tới New York không?"
+	},
+	{
+		"No": "250",
+		"Sentence": "Follow me",
+		"Meaning": "Theo tôi"
+	},
+	{
+		"No": "251",
+		"Sentence": "from here to there",
+		"Meaning": "Từ đây đến đó"
+	},
+	{
+		"No": "252",
+		"Sentence": "Go straight ahead",
+		"Meaning": "Đi thẳng trước mặt"
+	},
+	{
+		"No": "253",
+		"Sentence": "Have you arrived?",
+		"Meaning": "Bạn tới chưa?"
+	},
+	{
+		"No": "254",
+		"Sentence": "Have you been to Boston?",
+		"Meaning": "Bạn đã từng tới Boston chưa?"
+	},
+	{
+		"No": "255",
+		"Sentence": "How do I get there?",
+		"Meaning": "Làm sao tôi tới đó?"
+	},
+	{
+		"No": "256",
+		"Sentence": "How do I get to Daniel Street?",
+		"Meaning": "Làm sao tôi tới đường Daniel?"
+	},
+	{
+		"No": "257",
+		"Sentence": "How do I get to the American Embassy?",
+		"Meaning": "Làm sao tôi tới tòa đại sứ Mỹ?"
+	},
+	{
+		"No": "258",
+		"Sentence": "How long does it take by car?",
+		"Meaning": "Đi bằng xe mất bao lâu?"
+	},
+	{
+		"No": "259",
+		"Sentence": "How long does it take to get to Georgia?",
+		"Meaning": "Tới  Georgia mất bao lâu?"
+	},
+	{
+		"No": "260",
+		"Sentence": "How long is the flight?",
+		"Meaning": "Chuyến bay bao lâu?"
+	},
+	{
+		"No": "261",
+		"Sentence": "How was the movie?",
+		"Meaning": "Bộ phim thế nào?"
+	},
+	{
+		"No": "262",
+		"Sentence": "I have a question I want to ask you/\r\nI want to ask you a question",
+		"Meaning": "Tôi có câu hỏi muốn hỏi bạn/Tôi muốn hỏi bạn\r\nmột câu hỏi"
+	},
+	{
+		"No": "263",
+		"Sentence": "I wish I had one",
+		"Meaning": "Tôi ước gì có một cái"
+	},
+	{
+		"No": "264",
+		"Sentence": "I'd like to make a phone call",
+		"Meaning": "Tôi muốn gọi điện thoại"
+	},
+	{
+		"No": "265",
+		"Sentence": "I'd like to make a reservation",
+		"Meaning": "Tôi muốn đặt trước"
+	},
+	{
+		"No": "266",
+		"Sentence": "I'll take that one also",
+		"Meaning": "Tôi cũng sẽ mua cái đó"
+	},
+	{
+		"No": "267",
+		"Sentence": "I'm coming right now",
+		"Meaning": "Tôi tới ngay"
+	},
+	{
+		"No": "268",
+		"Sentence": "I'm going home in four days",
+		"Meaning": "Tôi sẽ đi về nhà trong vòng 4 ngày"
+	},
+	{
+		"No": "269",
+		"Sentence": "I'm leaving tomorrow",
+		"Meaning": "Ngày mai tôi rời đi"
+	},
+	{
+		"No": "270",
+		"Sentence": "I'm looking for the post office",
+		"Meaning": "Tôi đang tìm bưu điện"
+	},
+	{
+		"No": "271",
+		"Sentence": "Is this pen yours?",
+		"Meaning": "Cái bút này có phải của bạn không?"
+	},
+	{
+		"No": "272",
+		"Sentence": "One ticket New York please",
+		"Meaning": "Một vé đi New York, xin vui lòng"
+	},
+	{
+		"No": "273",
+		"Sentence": "One way or round trip?",
+		"Meaning": "Một chiều hay khứ hồi?"
+	},
+	{
+		"No": "274",
+		"Sentence": "Please speak slower",
+		"Meaning": "Làm ơn nói chậm hơn"
+	},
+	{
+		"No": "275",
+		"Sentence": "Pease take me to the airport",
+		"Meaning": "Làm ơn đưa tôi tới phi trường"
+	},
+	{
+		"No": "276",
+		"Sentence": "That way",
+		"Meaning": "Lối đó"
+	},
+	{
+		"No": "277",
+		"Sentence": "The plane departs at 5:30P",
+		"Meaning": "Máy bay cất cánh lúc 5:30 chiều"
+	},
+	{
+		"No": "278",
+		"Sentence": "They arrived yesterday",
+		"Meaning": "Họ tới ngày hôm qua"
+	},
+	{
+		"No": "279",
+		"Sentence": "Turn around",
+		"Meaning": "Quay lại"
+	},
+	{
+		"No": "280",
+		"Sentence": "Turn left",
+		"Meaning": "Rẻ trái"
+	},
+	{
+		"No": "281",
+		"Sentence": "Turn right",
+		"Meaning": "Rẻ phải"
+	},
+	{
+		"No": "282",
+		"Sentence": "What time are you going to the bus\r\nstation?",
+		"Meaning": "Mấy giờ bạn sẽ ra trạm xe buýt?"
+	},
+	{
+		"No": "283",
+		"Sentence": "When did this happen?",
+		"Meaning": "Việc này xảy ra khi nào?"
+	},
+	{
+		"No": "284",
+		"Sentence": "When did you arrive in Boston?",
+		"Meaning": "Bạn đã tới Boston khi nào?"
+	},
+	{
+		"No": "285",
+		"Sentence": "When do we arrive?",
+		"Meaning": "Khi nào chúng ta tới nơi?"
+	},
+	{
+		"No": "286",
+		"Sentence": "When do we leave?",
+		"Meaning": "Khi nào chúng ta ra đi?"
+	},
+	{
+		"No": "287",
+		"Sentence": "When does he arrive?",
+		"Meaning": "Khi nào anh ta tới?"
+	},
+	{
+		"No": "288",
+		"Sentence": "When does it arrive?",
+		"Meaning": "Khi nào nó tới?"
+	},
+	{
+		"No": "289",
+		"Sentence": "When does the bank open?",
+		"Meaning": "Khi nào ngân hàng mở cửa?"
+	},
+	{
+		"No": "290",
+		"Sentence": "When does the bus leave?",
+		"Meaning": "Khi nào xet buýt khởi hành?"
+	},
+	{
+		"No": "291",
+		"Sentence": "Where can I mail this?",
+		"Meaning": "Tôi có gửi bưu điện cái này ở đâu?"
+	},
+	{
+		"No": "292",
+		"Sentence": "Where is she from?",
+		"Meaning": "Cô ta từ đâu tới?"
+	},
+	{
+		"No": "293",
+		"Sentence": "Where is the bathroom?",
+		"Meaning": "Phòng tắm ở đâu?"
+	},
+	{
+		"No": "294",
+		"Sentence": "Why not?",
+		"Meaning": "Tại sao không?"
+	},
+	{
+		"No": "295",
+		"Sentence": "Will you remind me?",
+		"Meaning": "Làm ơn nhắc tôi"
+	},
+	{
+		"No": "296",
+		"Sentence": "Are you American?",
+		"Meaning": "Bạn có phải là người Mỹ không?"
+	},
+	{
+		"No": "297",
+		"Sentence": "Are you coming this evening?",
+		"Meaning": "Tối nay bạn tới không?"
+	},
+	{
+		"No": "298",
+		"Sentence": "Are you free tonight?",
+		"Meaning": "Tối nay bạn rãnh không?"
+	},
+	{
+		"No": "299",
+		"Sentence": "Are you going to take a plane or train?",
+		"Meaning": "Bạn sẽ đi máy bay hay tàu hỏa?"
+	},
+	{
+		"No": "300",
+		"Sentence": "Are you hungry?",
+		"Meaning": "Bạn có đói không?"
+	},
+	{
+		"No": "301",
+		"Sentence": "Are you sure?",
+		"Meaning": "Bạn có chắc không?"
+	},
+	{
+		"No": "302",
+		"Sentence": "Are you working tomorrow?",
+		"Meaning": "Ngày mai bạn có làm việc không?"
+	},
+	{
+		"No": "303",
+		"Sentence": "Business is good",
+		"Meaning": "Việc làm ăn tốt"
+	},
+	{
+		"No": "304",
+		"Sentence": "Cheers!",
+		"Meaning": "Chúc sức khỏe!"
+	},
+	{
+		"No": "305",
+		"Sentence": "Did it snow yesterday?",
+		"Meaning": "Trời có tuyết hôm qua không?"
+	},
+	{
+		"No": "306",
+		"Sentence": "Did you get my email?",
+		"Meaning": "Bạn có nhận được email của tôi không?"
+	},
+	{
+		"No": "307",
+		"Sentence": "Did you take your medicine?",
+		"Meaning": "Bạn đã uống thuốc chưa?"
+	},
+	{
+		"No": "308",
+		"Sentence": "Do you feel better?",
+		"Meaning": "Bạn có cảm thấy khỏe hơn không?"
+	},
+	{
+		"No": "309",
+		"Sentence": "Do you go to Florida often?",
+		"Meaning": "Bạn có thường đi Florida không?"
+	},
+	{
+		"No": "310",
+		"Sentence": "Do you have another one?",
+		"Meaning": "Bạn có cái khác không?"
+	},
+	{
+		"No": "311",
+		"Sentence": "Do you know where there's a store\r\nthat sells towels?",
+		"Meaning": "Bạn có biết ở đâu có cửa hàng bán khăn tắm\r\nkhông?"
+	},
+	{
+		"No": "312",
+		"Sentence": "Do you like it here?",
+		"Meaning": "Bạn có thích nơi đây không?"
+	},
+	{
+		"No": "313",
+		"Sentence": "Do you like the book?",
+		"Meaning": "Bạn có thích quyển sách này không?"
+	},
+	{
+		"No": "314",
+		"Sentence": "Do you need anything?",
+		"Meaning": "Bạn có cần gì không?"
+	},
+	{
+		"No": "315",
+		"Sentence": "Do you play any sports?",
+		"Meaning": "Bạn có chơi môn thể thao nào không?"
+	},
+	{
+		"No": "316",
+		"Sentence": "Do you sell medicine?",
+		"Meaning": "Bạn có bán dược phẩm không? (cửa hàng)"
+	},
+	{
+		"No": "317",
+		"Sentence": "Du you study English?",
+		"Meaning": "Bạn có học tiếng Anh không?"
+	},
+	{
+		"No": "318",
+		"Sentence": "Do you want to come with me?",
+		"Meaning": "Bạn có muốn đi với tôi không?"
+	},
+	{
+		"No": "319",
+		"Sentence": "Do you want to go with me?",
+		"Meaning": "Bạn có muốn đi với tôi không?"
+	},
+	{
+		"No": "320",
+		"Sentence": "Excuse me",
+		"Meaning": "Xin lỗi"
+	},
+	{
+		"No": "321",
+		"Sentence": "Give me a call",
+		"Meaning": "Gọi điện cho tôi"
+	},
+	{
+		"No": "322",
+		"Sentence": "Has your brother been to California?",
+		"Meaning": "Anh (em trai) của bạn đã từng tới California\r\nchưa?"
+	},
+	{
+		"No": "323",
+		"Sentence": "Have they met her yet?",
+		"Meaning": "Họ gặp cô ta chưa?"
+	},
+	{
+		"No": "324",
+		"Sentence": "Have you done this before?",
+		"Meaning": "Bạn đã làm việc này trước đây chưa?"
+	},
+	{
+		"No": "325",
+		"Sentence": "How long have you been here?",
+		"Meaning": "Bạn đã ở đây bao lâu?"
+	},
+	{
+		"No": "326",
+		"Sentence": "How long have you been in America?",
+		"Meaning": "Bạn đã ở Mỹ bao lâu?"
+	},
+	{
+		"No": "327",
+		"Sentence": "How long have you lived here?",
+		"Meaning": "Bạn đã sống ở đây bao lâu?"
+	},
+	{
+		"No": "328",
+		"Sentence": "How many children do you have?",
+		"Meaning": "Bạn có bao nhiêu người con?"
+	},
+	{
+		"No": "329",
+		"Sentence": "How many languages do you speak?",
+		"Meaning": "Bạn nói bao nhiêu ngôn ngữ?"
+	},
+	{
+		"No": "330",
+		"Sentence": "How many people do you have in your\r\nfamily?",
+		"Meaning": "Bạn có bao nhiêu người trong gia đình?"
+	},
+	{
+		"No": "331",
+		"Sentence": "How much would you like?",
+		"Meaning": "Bạn muốn bao nhiêu?"
+	},
+	{
+		"No": "332",
+		"Sentence": "How old are you?",
+		"Meaning": "Bạn bao nhiêu tuổi?"
+	},
+	{
+		"No": "333",
+		"Sentence": "I bought a shirt yesterday",
+		"Meaning": "Hôm qua tôi mua một cái áo sơ mi"
+	},
+	{
+		"No": "334",
+		"Sentence": "I don't feel well",
+		"Meaning": "Tôi không cảm thấy khỏe"
+	},
+	{
+		"No": "335",
+		"Sentence": "I have pain in my arm",
+		"Meaning": "Tôi bị đau ở tay"
+	},
+	{
+		"No": "336",
+		"Sentence": "I have to wash my clothes",
+		"Meaning": "Tôi phải giặt quần áo"
+	},
+	{
+		"No": "337",
+		"Sentence": "I have two sisters",
+		"Meaning": "Tôi có 2 người chị (em gái)"
+	},
+	{
+		"No": "338",
+		"Sentence": "I remember",
+		"Meaning": "Tôi nhớ"
+	},
+	{
+		"No": "339",
+		"Sentence": "I speak a little English",
+		"Meaning": "Tôi nói một chút tiếng Anh"
+	},
+	{
+		"No": "340",
+		"Sentence": "I'll tell him you called",
+		"Meaning": "Tôi sẽ nói với anh ta là bạn đã gọi điện"
+	},
+	{
+		"No": "341",
+		"Sentence": "I'm 32",
+		"Meaning": "Tôi 32"
+	},
+	{
+		"No": "342",
+		"Sentence": "I'm 6'2\"",
+		"Meaning": "Tôi cao 6'2\""
+	},
+	{
+		"No": "343",
+		"Sentence": "I'm a size 8",
+		"Meaning": "Tôi cỡ 8"
+	},
+	{
+		"No": "344",
+		"Sentence": "I'm allergic to seafood",
+		"Meaning": "Tôi dị ứng hải sản"
+	},
+	{
+		"No": "345",
+		"Sentence": "I'm American",
+		"Meaning": "Tôi là người Mỹ"
+	},
+	{
+		"No": "346",
+		"Sentence": "I'm fine, and you?",
+		"Meaning": "Tôi khỏe, còn bạn?"
+	},
+	{
+		"No": "347",
+		"Sentence": "I'm not afraid",
+		"Meaning": "Tôi không sợ"
+	},
+	{
+		"No": "348",
+		"Sentence": "I'm sick",
+		"Meaning": "Tôi ốm"
+	},
+	{
+		"No": "349",
+		"Sentence": "Is your house like this one?",
+		"Meaning": "Nhà của bạn có giống căn nhà này không?"
+	},
+	{
+		"No": "350",
+		"Sentence": "Is your husband also from Boston?",
+		"Meaning": "Chồng của bạn cũng từ Boston hả?"
+	},
+	{
+		"No": "351",
+		"Sentence": "It's not very expensive",
+		"Meaning": "Nó không đắt lắm"
+	},
+	{
+		"No": "352",
+		"Sentence": "I've been there",
+		"Meaning": "Tôi đã ở đó"
+	},
+	{
+		"No": "353",
+		"Sentence": "Let's share",
+		"Meaning": "Chúng ta hãy chia nhau"
+	},
+	{
+		"No": "354",
+		"Sentence": "My daughter is here",
+		"Meaning": "Con gái tôi ở đây"
+	},
+	{
+		"No": "355",
+		"Sentence": "My father has been there",
+		"Meaning": "Bố tôi đã ở đó"
+	},
+	{
+		"No": "356",
+		"Sentence": "My father is lawyer",
+		"Meaning": "Bố tôi là luật sư"
+	},
+	{
+		"No": "357",
+		"Sentence": "My grandmother passed away last year",
+		"Meaning": "Bà tôi mất hồi năm ngoái"
+	},
+	{
+		"No": "358",
+		"Sentence": "My name is John Smith",
+		"Meaning": "Tên tôi là John Smith"
+	},
+	{
+		"No": "359",
+		"Sentence": "My son studies computers",
+		"Meaning": "Con trai tôi học máy tính"
+	},
+	{
+		"No": "360",
+		"Sentence": "My son",
+		"Meaning": "Con trai tôi"
+	},
+	{
+		"No": "361",
+		"Sentence": "No, I'm American",
+		"Meaning": "Không. Tôi là người Mỹ"
+	},
+	{
+		"No": "362",
+		"Sentence": "No, this is the first time",
+		"Meaning": "Không, đây là lần đầu tiên"
+	},
+	{
+		"No": "363",
+		"Sentence": "Our children are in America",
+		"Meaning": "Các con tôi ở Mỹ"
+	},
+	{
+		"No": "364",
+		"Sentence": "She's an expert",
+		"Meaning": "Cô ta là chuyên gia"
+	},
+	{
+		"No": "365",
+		"Sentence": "She's older than me",
+		"Meaning": "Cô ta lớn tuổi hơn tôi"
+	},
+	{
+		"No": "366",
+		"Sentence": "That car is similar to my car",
+		"Meaning": "Chiếc xe đó giống xe của tôi"
+	},
+	{
+		"No": "367",
+		"Sentence": "This is Mrs. Smith",
+		"Meaning": "Đây là bà Smith"
+	},
+	{
+		"No": "368",
+		"Sentence": "This is my mother",
+		"Meaning": "Đây là mẹ tôi"
+	},
+	{
+		"No": "369",
+		"Sentence": "This is the first time I've been there",
+		"Meaning": "Đây là lần đầu tiên tôi ở đây"
+	},
+	{
+		"No": "370",
+		"Sentence": "We have two boys and one girl",
+		"Meaning": "Chúng tôi có hai trai và một gái"
+	},
+	{
+		"No": "371",
+		"Sentence": "What are you going to do tonight?",
+		"Meaning": "Bạn sẽ làm gì tối nay?"
+	},
+	{
+		"No": "372",
+		"Sentence": "What are your hobbies?",
+		"Meaning": "Thú vui của bạn là gì?"
+	},
+	{
+		"No": "373",
+		"Sentence": "What do you study?",
+		"Meaning": "Bạn học gì?"
+	},
+	{
+		"No": "374",
+		"Sentence": "What do you want to do?",
+		"Meaning": "Bạn muốn làm gì?"
+	},
+	{
+		"No": "375",
+		"Sentence": "What school did you go to?",
+		"Meaning": "Bạn đã đi học trường nào?"
+	},
+	{
+		"No": "376",
+		"Sentence": "What's your favorite movie?",
+		"Meaning": "Bộ phim ưa thích của bạn là phim gì?"
+	},
+	{
+		"No": "377",
+		"Sentence": "Wat's your last name?",
+		"Meaning": "Họ của bạn là gì?"
+	},
+	{
+		"No": "378",
+		"Sentence": "What's your name?",
+		"Meaning": "Tên của bạn là gì?"
+	},
+	{
+		"No": "379",
+		"Sentence": "Where are the t-shirts",
+		"Meaning": "Aó thun ở đâu?"
+	},
+	{
+		"No": "380",
+		"Sentence": "Where did you go?",
+		"Meaning": "Bạn đã đi đâu?"
+	},
+	{
+		"No": "381",
+		"Sentence": "Where did you learn English?",
+		"Meaning": "Bạn đã học tiếng Anh ở đâu?"
+	},
+	{
+		"No": "382",
+		"Sentence": "Where did you work before you\r\nworked here?",
+		"Meaning": "Bạn đã làm việc ở đâu trước khi bạn\r\nlàm việc ở đây?"
+	},
+	{
+		"No": "383",
+		"Sentence": "Where do you live?",
+		"Meaning": "Bạn sống ở đâu?"
+	},
+	{
+		"No": "384",
+		"Sentence": "Where were you?",
+		"Meaning": "Bạn đã ở đâu?"
+	},
+	{
+		"No": "385",
+		"Sentence": "Who sent this letter?",
+		"Meaning": "Ai đã gửi lá thư này?"
+	},
+	{
+		"No": "386",
+		"Sentence": "Would you like to buy this?",
+		"Meaning": "Bạn muốn mua cái này không?"
+	},
+	{
+		"No": "387",
+		"Sentence": "You speak English very well",
+		"Meaning": "Bạn nói tiếng Anh rất giỏi"
+	},
+	{
+		"No": "388",
+		"Sentence": "Your children are very well behaved",
+		"Meaning": "Các con của bạn rất ngoan"
+	},
+	{
+		"No": "389",
+		"Sentence": "Your daughter",
+		"Meaning": "Con gái của bạn"
+	},
+	{
+		"No": "390",
+		"Sentence": "You're smarter than him",
+		"Meaning": "Bạn thông minh hơn anh ta"
+	},
+	{
+		"No": "391",
+		"Sentence": "Am I pronouncing it correctly?",
+		"Meaning": "Tôi phát âm nó đúng không?"
+	},
+	{
+		"No": "392",
+		"Sentence": "Can you do me a favor?",
+		"Meaning": "Bạn có thể giúp tôi một việc được không?"
+	},
+	{
+		"No": "393",
+		"Sentence": "Can you help me?",
+		"Meaning": "Ban có thể giúp tôi được không?"
+	},
+	{
+		"No": "394",
+		"Sentence": "Can you please say that again?",
+		"Meaning": "Bạn có thể nói lại điều đó được không?"
+	},
+	{
+		"No": "395",
+		"Sentence": "Can you show me?",
+		"Meaning": "Bạn có thể chỉ cho tôi không?"
+	},
+	{
+		"No": "396",
+		"Sentence": "Can you throw that away for me?",
+		"Meaning": "Bạn có thể quẳng cái đó đi giúp tôi được không?"
+	},
+	{
+		"No": "397",
+		"Sentence": "Do you believe that?",
+		"Meaning": "Bạn có tin điều đó không?"
+	},
+	{
+		"No": "398",
+		"Sentence": "Do you have a pencil?",
+		"Meaning": "Bạn có bút chì không?"
+	},
+	{
+		"No": "399",
+		"Sentence": "Do you smoke?",
+		"Meaning": "Bạn có hút thuốc không?"
+	},
+	{
+		"No": "400",
+		"Sentence": "Do you speak English?",
+		"Meaning": "Bạn có nói tiếng Anh không?"
+	},
+	{
+		"No": "401",
+		"Sentence": "Does any one here speak English?",
+		"Meaning": "Có ai ở đây nói tiếng Anh không?"
+	},
+	{
+		"No": "402",
+		"Sentence": "Don't do that",
+		"Meaning": "Đừng làm điều đó"
+	},
+	{
+		"No": "403",
+		"Sentence": "Excuse me, what did you say?",
+		"Meaning": "Xin lỗi, bạn nói gì?"
+	},
+	{
+		"No": "404",
+		"Sentence": "Forget it",
+		"Meaning": "Quên đi"
+	},
+	{
+		"No": "405",
+		"Sentence": "How do you pronounce that?",
+		"Meaning": "Bạn phát âm chữ đó như thế nào?"
+	},
+	{
+		"No": "406",
+		"Sentence": "How do you say it in English?",
+		"Meaning": "Bạn nói điều đó bằng tiếng Anh như thế nào?"
+	},
+	{
+		"No": "407",
+		"Sentence": "How do you spell it?",
+		"Meaning": "Bạn đánh vần nó như thế nào?"
+	},
+	{
+		"No": "408",
+		"Sentence": "How do you spell the word Seattle?",
+		"Meaning": "Bạn đánh vần chữ Seattle như thế nào?"
+	},
+	{
+		"No": "409",
+		"Sentence": "I can swim",
+		"Meaning": "Tôi có thể bơi"
+	},
+	{
+		"No": "410",
+		"Sentence": "I can't hear you clearly",
+		"Meaning": "Tôi nghe bạn không rõ"
+	},
+	{
+		"No": "411",
+		"Sentence": "I don't mind",
+		"Meaning": "Tôi không quan tâm"
+	},
+	{
+		"No": "412",
+		"Sentence": "I don't speak English very well",
+		"Meaning": "Tôi không nói tiếng Anh giỏi lắm"
+	},
+	{
+		"No": "413",
+		"Sentence": "I don't think so",
+		"Meaning": "Tôi không nghĩ vậy"
+	},
+	{
+		"No": "414",
+		"Sentence": "I don't understand what your saying",
+		"Meaning": "Tôi không hiểu bạn nói gì"
+	},
+	{
+		"No": "415",
+		"Sentence": "I think you have too many clothes",
+		"Meaning": "Tôi nghĩ bạn có nhiều quần áo quá"
+	},
+	{
+		"No": "416",
+		"Sentence": "I trust you",
+		"Meaning": "Tôi tin bạn"
+	},
+	{
+		"No": "417",
+		"Sentence": "I understand now",
+		"Meaning": "Bây giờ tôi hiểu"
+	},
+	{
+		"No": "418",
+		"Sentence": "Is there air conditioning in the room?",
+		"Meaning": "Trong phòng có điều hòa không khí không?"
+	},
+	{
+		"No": "419",
+		"Sentence": "Let's meet in front of the hotel",
+		"Meaning": "Chúng ta hãy gặp nhau trước khách sạn"
+	},
+	{
+		"No": "420",
+		"Sentence": "Please sit down",
+		"Meaning": "Xin mời ngồi"
+	},
+	{
+		"No": "421",
+		"Sentence": "Please speak English",
+		"Meaning": "Làm ơn nói tiếng Anh"
+	},
+	{
+		"No": "422",
+		"Sentence": "Please speak more slowly",
+		"Meaning": "Làm ơn nói chậm hơn"
+	},
+	{
+		"No": "423",
+		"Sentence": "Sorry, I didn't hear clearly",
+		"Meaning": "Xin lỗi, tôi nghe không rõ"
+	},
+	{
+		"No": "424",
+		"Sentence": "That means friend",
+		"Meaning": "Chữ đó có nghĩa là bạn bè"
+	},
+	{
+		"No": "425",
+		"Sentence": "That's wrong",
+		"Meaning": "Sai rồi"
+	},
+	{
+		"No": "426",
+		"Sentence": "Try to say it",
+		"Meaning": "Gắng nói cái đó"
+	},
+	{
+		"No": "427",
+		"Sentence": "What does this mean?",
+		"Meaning": "Cái này có nghĩa gì?"
+	},
+	{
+		"No": "428",
+		"Sentence": "What does this say?",
+		"Meaning": "Cái này nói gì?"
+	},
+	{
+		"No": "429",
+		"Sentence": "What does this word mean?",
+		"Meaning": "Chữ này nghĩa là gì?"
+	},
+	{
+		"No": "430",
+		"Sentence": "What's the exchange rate?",
+		"Meaning": "Hồi xuất bao nhiêu?"
+	},
+	{
+		"No": "431",
+		"Sentence": "Whose book is that?",
+		"Meaning": "Đó là quyển sách của ai?"
+	},
+	{
+		"No": "432",
+		"Sentence": "Why are you laughing?",
+		"Meaning": "Tại sao bạn cười?"
+	},
+	{
+		"No": "433",
+		"Sentence": "Why aren't you going?",
+		"Meaning": "Tại sao bạn không đi?"
+	},
+	{
+		"No": "434",
+		"Sentence": "What did you do that?",
+		"Meaning": "Tại sao bạn đã làm điều đó"
+	},
+	{
+		"No": "435",
+		"Sentence": "Can I have glass of water please?",
+		"Meaning": "Làm ơn cho một ly nước"
+	},
+	{
+		"No": "436",
+		"Sentence": "Can I use your phone?",
+		"Meaning": "Tôi có thể sử dụng điện thoại của bạn không?"
+	},
+	{
+		"No": "437",
+		"Sentence": "Do you have any vacancies?",
+		"Meaning": "Bạn có chỗ trống không?"
+	},
+	{
+		"No": "438",
+		"Sentence": "Do you have the number for a taxi?",
+		"Meaning": "Bạn có số điện thoại để gọi taxi không?"
+	},
+	{
+		"No": "439",
+		"Sentence": "Do you know her?",
+		"Meaning": "Bạn có biết cô ta không?"
+	},
+	{
+		"No": "440",
+		"Sentence": "Do you know where she is?",
+		"Meaning": "Bạn có biết cô ấy ở đâu không?"
+	},
+	{
+		"No": "441",
+		"Sentence": "Do you play basketball?",
+		"Meaning": "Bạn có chơi bóng rổ không?"
+	},
+	{
+		"No": "442",
+		"Sentence": "Fill it up, please",
+		"Meaning": "Làm ơn đổ đầy"
+	},
+	{
+		"No": "443",
+		"Sentence": "He needs some new clothes",
+		"Meaning": "Anh ta cần một ít quần áo mới"
+	},
+	{
+		"No": "444",
+		"Sentence": "How much is that?",
+		"Meaning": "Cái đó giá bao nhiêu?"
+	},
+	{
+		"No": "445",
+		"Sentence": "How much is this?",
+		"Meaning": "Cái này giá bao nhiêu?"
+	},
+	{
+		"No": "446",
+		"Sentence": "I believe you",
+		"Meaning": "Tôi tin bạn"
+	},
+	{
+		"No": "447",
+		"Sentence": "I speak two languages",
+		"Meaning": "Tôi nói 2 thứ tiếng"
+	},
+	{
+		"No": "448",
+		"Sentence": "I thought he said something else",
+		"Meaning": "Tôi nghĩ anh ta đã nói một điều gì khác"
+	},
+	{
+		"No": "449",
+		"Sentence": "I usually drink coffee at breakfast",
+		"Meaning": "Tôi thường uống cà phê vào bữa điểm tâm"
+	},
+	{
+		"No": "450",
+		"Sentence": "I'd like the number for the Hilton\r\nHotel please",
+		"Meaning": "Tôi muốn số điện thoại của khách sạn Hilton,\r\nxin vui lòng"
+	},
+	{
+		"No": "451",
+		"Sentence": "I'd like to go home",
+		"Meaning": "Tôi muốn về nhà"
+	},
+	{
+		"No": "452",
+		"Sentence": "I'd like to go shopping",
+		"Meaning": "Tôi muốn đi mua sắm"
+	},
+	{
+		"No": "453",
+		"Sentence": "If you like it I can buy more",
+		"Meaning": "Nếu bạn thích nó tôi có thể mua thêm"
+	},
+	{
+		"No": "454",
+		"Sentence": "I'm  a beginner",
+		"Meaning": "Tôi mới bắt đầu"
+	},
+	{
+		"No": "455",
+		"Sentence": "I'm full",
+		"Meaning": "Tôi no rồi"
+	},
+	{
+		"No": "456",
+		"Sentence": "I'm just kidding",
+		"Meaning": "Tôi chỉ đùa thôi"
+	},
+	{
+		"No": "457",
+		"Sentence": "I'm single",
+		"Meaning": "Tôi độc thân"
+	},
+	{
+		"No": "458",
+		"Sentence": "It's not too far",
+		"Meaning": "Nó không xa lắm"
+	},
+	{
+		"No": "459",
+		"Sentence": "Sorry, we don't have any",
+		"Meaning": "Xin lỗi, chúng tôi không có cái nào"
+	},
+	{
+		"No": "460",
+		"Sentence": "The books are expensive",
+		"Meaning": "Những quyển sách đắt tiền"
+	},
+	{
+		"No": "461",
+		"Sentence": "Try it on",
+		"Meaning": "Mặc thử nó"
+	},
+	{
+		"No": "462",
+		"Sentence": "What do you want to buy?",
+		"Meaning": "Bạn muốn mua gì?"
+	},
+	{
+		"No": "463",
+		"Sentence": "What size?",
+		"Meaning": "Cỡ mấy?"
+	},
+	{
+		"No": "464",
+		"Sentence": "When does the plane arrive?",
+		"Meaning": "Khi nào máy bay tới?"
+	},
+	{
+		"No": "465",
+		"Sentence": "Where are you?",
+		"Meaning": "Bạn ở đâu?"
+	},
+	{
+		"No": "466",
+		"Sentence": "Would you like something to eat?",
+		"Meaning": "Bạn muốn ăn thứ gì không?"
+	},
+	{
+		"No": "467",
+		"Sentence": "And you?",
+		"Meaning": "Còn bạn?"
+	},
+	{
+		"No": "468",
+		"Sentence": "Anything else?",
+		"Meaning": "Còn gì nữa không?"
+	},
+	{
+		"No": "469",
+		"Sentence": "Are they the same?",
+		"Meaning": "Chúng giống nhau không?"
+	},
+	{
+		"No": "470",
+		"Sentence": "Are you afraid?",
+		"Meaning": "Bạn sợ không?"
+	},
+	{
+		"No": "471",
+		"Sentence": "Are you going to attend their wedding?",
+		"Meaning": "Bạn sẽ dự đám cưới của họ không?"
+	},
+	{
+		"No": "472",
+		"Sentence": "Are you married?",
+		"Meaning": "Bạn có gia đình chưa?"
+	},
+	{
+		"No": "473",
+		"Sentence": "Are you okay?",
+		"Meaning": "Bạn có khỏe không?"
+	},
+	{
+		"No": "474",
+		"Sentence": "Are you sick?",
+		"Meaning": "Bạn ốm hả?"
+	},
+	{
+		"No": "475",
+		"Sentence": "Behind the bank",
+		"Meaning": "Sau ngân hàng"
+	},
+	{
+		"No": "476",
+		"Sentence": "Can I borrow some money?",
+		"Meaning": "Tôi có thể mượn một ít tiền không?"
+	},
+	{
+		"No": "477",
+		"Sentence": "Can I have the bill please?",
+		"Meaning": "Làm ơn đưa phiếu tính tiền"
+	},
+	{
+		"No": "478",
+		"Sentence": "Can you call back later?",
+		"Meaning": "Bạn có thể gọi lại sau được không?"
+	},
+	{
+		"No": "479",
+		"Sentence": "Can you call me back later?",
+		"Meaning": "Ban có thể gọi lại cho tôi sau được không?"
+	},
+	{
+		"No": "480",
+		"Sentence": "Can you carry this for me?",
+		"Meaning": "Bạn có thể mang giúp tôi cái này được không?"
+	},
+	{
+		"No": "481",
+		"Sentence": "Can you fix this?",
+		"Meaning": "Ban có thể sửa cái này được không?"
+	},
+	{
+		"No": "482",
+		"Sentence": "Can you give me an example?",
+		"Meaning": "Bạn có thể cho tôi một thí dụ được không?"
+	},
+	{
+		"No": "483",
+		"Sentence": "Can you speak louder please?",
+		"Meaning": "Bạn có thể nói lớn hơn được không?"
+	},
+	{
+		"No": "484",
+		"Sentence": "Can you swim?",
+		"Meaning": "Bạn biết bơi không?"
+	},
+	{
+		"No": "485",
+		"Sentence": "Do you accept U.S. Dollars?",
+		"Meaning": "Bạn có nhận đô Mỹ không?"
+	},
+	{
+		"No": "486",
+		"Sentence": "Do you have a girlfriend?",
+		"Meaning": "Bạn có bạn gái không?"
+	},
+	{
+		"No": "487",
+		"Sentence": "Do you have a problem?",
+		"Meaning": "Bạn có vấn đề à?"
+	},
+	{
+		"No": "488",
+		"Sentence": "Do you have an appointment?",
+		"Meaning": "Ban có hẹn không?"
+	},
+	{
+		"No": "489",
+		"Sentence": "Do you hear that?",
+		"Meaning": "Bạn có nghe cái đó không?"
+	},
+	{
+		"No": "490",
+		"Sentence": "Do you know how to get to the Marriott\r\nHotel?",
+		"Meaning": "Bạn có biết đường tới khách sạn\r\nMarriott không?"
+	},
+	{
+		"No": "491",
+		"Sentence": "Do you know what this means?",
+		"Meaning": "Bạn có biết cái này nghĩa là gì không?"
+	},
+	{
+		"No": "492",
+		"Sentence": "Do you know where I can get a taxi?",
+		"Meaning": "Bạn có biết tôi có thể gọi tắc xi ở đâu không?"
+	},
+	{
+		"No": "493",
+		"Sentence": "Do you know where my classes are?",
+		"Meaning": "Bạn có biết cặp kính của tôi ở đâu không?"
+	},
+	{
+		"No": "494",
+		"Sentence": "Do you like your co-workers?",
+		"Meaning": "Bạn có thích bạn đồng nghiệp của bạn không?"
+	},
+	{
+		"No": "495",
+		"Sentence": "Do you need anything else?",
+		"Meaning": "Bạn còn cần gì nữa không?"
+	},
+	{
+		"No": "496",
+		"Sentence": "Do you understand?",
+		"Meaning": "Bạn có hiểu không?"
+	},
+	{
+		"No": "497",
+		"Sentence": "Does he like the school?",
+		"Meaning": "Anh ta có thích trường đó không?"
+	},
+	{
+		"No": "498",
+		"Sentence": "Give me the pen",
+		"Meaning": "Đưa tôi cây viết"
+	},
+	{
+		"No": "499",
+		"Sentence": "How do you know?",
+		"Meaning": "Làm sao bạn biết?"
+	},
+	{
+		"No": "500",
+		"Sentence": "How is she?",
+		"Meaning": "Cô ta thế nào?"
+	},
+	{
+		"No": "501",
+		"Sentence": "How long is it?",
+		"Meaning": "Nó dài bao nhiêu?"
+	},
+	{
+		"No": "502",
+		"Sentence": "How many?",
+		"Meaning": "Bao nhiêu?"
+	},
+	{
+		"No": "503",
+		"Sentence": "How much is it?",
+		"Meaning": "Nó giá bao nhiêu?"
+	},
+	{
+		"No": "504",
+		"Sentence": "I have a lot of things to do",
+		"Meaning": "Tôi có nhiều việc phải làm"
+	},
+	{
+		"No": "505",
+		"Sentence": "In 30 minutes",
+		"Meaning": "Trong vòng 30 phút"
+	},
+	{
+		"No": "506",
+		"Sentence": "Is anyone else coming?",
+		"Meaning": "Còn ai khác tới không?"
+	},
+	{
+		"No": "507",
+		"Sentence": "Is everything ok?",
+		"Meaning": "Mọi việc ổn không?"
+	},
+	{
+		"No": "508",
+		"Sentence": "Is it cold outside?",
+		"Meaning": "Bên ngoài trời lạnh không?"
+	},
+	{
+		"No": "509",
+		"Sentence": "Is it far from here?",
+		"Meaning": "Nó cách xa đây không?"
+	},
+	{
+		"No": "510",
+		"Sentence": "Is it hot?",
+		"Meaning": "Nó nóng không?"
+	},
+	{
+		"No": "511",
+		"Sentence": "Is it raining?",
+		"Meaning": "Trời đang mưa không?"
+	},
+	{
+		"No": "512",
+		"Sentence": "Is there anything cheaper?",
+		"Meaning": "Có thứ gì rẻ hơn không?"
+	},
+	{
+		"No": "513",
+		"Sentence": "Is your son here?",
+		"Meaning": "Con trai bạn có đây không?"
+	},
+	{
+		"No": "514",
+		"Sentence": "Should I wait?",
+		"Meaning": "Tôi nên đợi không?"
+	},
+	{
+		"No": "515",
+		"Sentence": "The big one or the small one?",
+		"Meaning": "Cái lớn hay cái nhỏ?"
+	},
+	{
+		"No": "516",
+		"Sentence": "The cars are American",
+		"Meaning": "Những chiếc xe là xe Mỹ"
+	},
+	{
+		"No": "517",
+		"Sentence": "Were there any ploblems?",
+		"Meaning": "Đã có vấn đề gì không?"
+	},
+	{
+		"No": "518",
+		"Sentence": "Were you at the library last night?",
+		"Meaning": "Bạn có ở thư viện tối qua không?"
+	},
+	{
+		"No": "519",
+		"Sentence": "What are you doing?",
+		"Meaning": "Bạn đang làm gì?"
+	},
+	{
+		"No": "520",
+		"Sentence": "What are you thinking about?",
+		"Meaning": "Bạn đang nghĩ gì?"
+	},
+	{
+		"No": "521",
+		"Sentence": "What are you two talking about?",
+		"Meaning": "Hai bạn đang nói chuyện gì?"
+	},
+	{
+		"No": "522",
+		"Sentence": "What did you do last night?",
+		"Meaning": "Tối qua bạn làm gì?"
+	},
+	{
+		"No": "523",
+		"Sentence": "What did you do yesterday?",
+		"Meaning": "Hôm qua bạn làm gì?"
+	},
+	{
+		"No": "524",
+		"Sentence": "Wat did you think?",
+		"Meaning": "Bạn đã nghĩ gì?"
+	},
+	{
+		"No": "525",
+		"Sentence": "What do they study?",
+		"Meaning": "Họ học gì?"
+	},
+	{
+		"No": "526",
+		"Sentence": "What do you have?",
+		"Meaning": "Bạn có gì?"
+	},
+	{
+		"No": "527",
+		"Sentence": "What do you think?",
+		"Meaning": "Bạn nghĩ gì?"
+	},
+	{
+		"No": "528",
+		"Sentence": "What happened?",
+		"Meaning": "Điều gì đã xảy ra?"
+	},
+	{
+		"No": "529",
+		"Sentence": "What is it?",
+		"Meaning": "Nó là cái gì?"
+	},
+	{
+		"No": "530",
+		"Sentence": "What is that?",
+		"Meaning": "Đó là cái gì?"
+	},
+	{
+		"No": "531",
+		"Sentence": "What should I wear?",
+		"Meaning": "Tôi nên mặc gì?"
+	},
+	{
+		"No": "532",
+		"Sentence": "What's in it?",
+		"Meaning": "Có gì trong đó?"
+	},
+	{
+		"No": "533",
+		"Sentence": "What's the temperature?",
+		"Meaning": "Nhiệt độ bao nhiêu?"
+	},
+	{
+		"No": "534",
+		"Sentence": "What's this?",
+		"Meaning": "Cái gì đây?"
+	},
+	{
+		"No": "535",
+		"Sentence": "What's up?",
+		"Meaning": "Có chuyện gì đây?"
+	},
+	{
+		"No": "536",
+		"Sentence": "Where are you from?",
+		"Meaning": "Bạn từ đâu tới?"
+	},
+	{
+		"No": "537",
+		"Sentence": "Where can I rent a car?",
+		"Meaning": "Tôi có thể thuê xe hơi ở đâu?"
+	},
+	{
+		"No": "538",
+		"Sentence": "Where did it happen?",
+		"Meaning": "Nó đã xảy ra ở đâu?"
+	},
+	{
+		"No": "539",
+		"Sentence": "Where did you learn it?",
+		"Meaning": "Bạn đã học nó ở đâu?"
+	},
+	{
+		"No": "540",
+		"Sentence": "Where is he from?",
+		"Meaning": "Anh ta từ đâu tới?"
+	},
+	{
+		"No": "541",
+		"Sentence": "Where is he?",
+		"Meaning": "Anh ta ở đâu?"
+	},
+	{
+		"No": "542",
+		"Sentence": "Which is better, the spaghetti or\r\nchicken salad?",
+		"Meaning": "Món nào ngon hơn, Mì Ý hay\r\nrau gà?"
+	},
+	{
+		"No": "543",
+		"Sentence": "Which one do you want?",
+		"Meaning": "Bạn muốn cái nào?"
+	},
+	{
+		"No": "544",
+		"Sentence": "Which one is cheaper?",
+		"Meaning": "Cái nào rẻ hơn?"
+	},
+	{
+		"No": "545",
+		"Sentence": "Which one is the best?",
+		"Meaning": "Cái nào tốt nhất?"
+	},
+	{
+		"No": "546",
+		"Sentence": "Which school does he go to?",
+		"Meaning": "Anh ta học trường nào?"
+	},
+	{
+		"No": "547",
+		"Sentence": "Who are they?",
+		"Meaning": "Họ là ai?"
+	},
+	{
+		"No": "548",
+		"Sentence": "Who are you looking for?",
+		"Meaning": "Bạn đang tìm ai?"
+	},
+	{
+		"No": "549",
+		"Sentence": "Who is it?",
+		"Meaning": "Ai đây? (Hỏi ai đang gọi điện thoại)"
+	},
+	{
+		"No": "550",
+		"Sentence": "Who taught you that?",
+		"Meaning": "Ai dạy bạn cái đó?"
+	},
+	{
+		"No": "551",
+		"Sentence": "Who's calling?",
+		"Meaning": "Ai đang gọi?"
+	},
+	{
+		"No": "552",
+		"Sentence": "Who's that man over there?",
+		"Meaning": "Người đàn ông đằng kia là ai?"
+	},
+	{
+		"No": "553",
+		"Sentence": "Why did you say that?",
+		"Meaning": "Tại sao bạn đã nói điều đó?"
+	},
+	{
+		"No": "554",
+		"Sentence": "Will you pass me the salt please?",
+		"Meaning": "Làm ơn đưa giùm tôi lọ muối"
+	},
+	{
+		"No": "555",
+		"Sentence": "Will you put this in the car for me?",
+		"Meaning": "Làm ơn đặt cái này vào trong xe giúp tôi"
+	},
+	{
+		"No": "556",
+		"Sentence": "Would you ask him to call me back please",
+		"Meaning": "Làm ơn nói với anh ta gọi lại cho tôi"
+	},
+	{
+		"No": "557",
+		"Sentence": "Yes",
+		"Meaning": "Vâng"
+	},
+	{
+		"No": "558",
+		"Sentence": "You have a very nice car",
+		"Meaning": "Bạn có một chiếc xe rất đẹp"
+	},
+	{
+		"No": "559",
+		"Sentence": "You look like my sister",
+		"Meaning": "Bạn trông giống em gái(chị) của tôi"
+	},
+	{
+		"No": "560",
+		"Sentence": "Come here",
+		"Meaning": "Tới đây"
+	},
+	{
+		"No": "561",
+		"Sentence": "Do you think it'll rain today?",
+		"Meaning": "Bạn có nghĩ ngày mai trời sẽ mưa không?"
+	},
+	{
+		"No": "562",
+		"Sentence": "Do you think it's going to rain tomorrow?",
+		"Meaning": "Bạn có nghĩ ngyà mai trời sẽ mưa không?"
+	},
+	{
+		"No": "563",
+		"Sentence": "Does it often snow in the winter in\r\nMassachusetts?",
+		"Meaning": "Trời có thường mưa tuyêt vào mùa đông ở\r\nMassachusetts không?"
+	},
+	{
+		"No": "564",
+		"Sentence": "How's business?",
+		"Meaning": "Việc làm ăn thế nào?"
+	},
+	{
+		"No": "565",
+		"Sentence": "Is it close?",
+		"Meaning": "Nó gần không?"
+	},
+	{
+		"No": "566",
+		"Sentence": "Is it possible?",
+		"Meaning": "Điều đó có thể không?"
+	},
+	{
+		"No": "567",
+		"Sentence": "Is it ready?",
+		"Meaning": "Nó sẵn sàng không?"
+	},
+	{
+		"No": "568",
+		"Sentence": "It costs 20 dollars per hour",
+		"Meaning": "Gía 20 đô một giờ"
+	},
+	{
+		"No": "569",
+		"Sentence": "It hurts here",
+		"Meaning": "Đau ở đây"
+	},
+	{
+		"No": "570",
+		"Sentence": "It will arrive shortly",
+		"Meaning": "Nó sẽ sớm tới"
+	},
+	{
+		"No": "571",
+		"Sentence": "It's far from here",
+		"Meaning": "Nó cách xa đây"
+	},
+	{
+		"No": "572",
+		"Sentence": "It's going to be hot today",
+		"Meaning": "Hôm nay trời  sẽ nóng"
+	},
+	{
+		"No": "573",
+		"Sentence": "It's north of here",
+		"Meaning": "Nó ở phía Bắc nơi này"
+	},
+	{
+		"No": "574",
+		"Sentence": "It's over there",
+		"Meaning": "Nó ở đằng kia"
+	},
+	{
+		"No": "575",
+		"Sentence": "It's raining",
+		"Meaning": "Trời đang mưa"
+	},
+	{
+		"No": "576",
+		"Sentence": "It's too late",
+		"Meaning": "Muộn quá rồi"
+	},
+	{
+		"No": "577",
+		"Sentence": "It's very important",
+		"Meaning": "Nó rất quan trọng"
+	},
+	{
+		"No": "578",
+		"Sentence": "The roads are slippery",
+		"Meaning": "Đường trơn"
+	},
+	{
+		"No": "579",
+		"Sentence": "What will the weather be like tomorrow?",
+		"Meaning": "Ngày mai thời tiết thế nào?"
+	},
+	{
+		"No": "580",
+		"Sentence": "What's the room rate?",
+		"Meaning": "Gía phòng bao nhiêu?"
+	},
+	{
+		"No": "581",
+		"Sentence": "11 days ago",
+		"Meaning": "Cách đây 11 ngày"
+	},
+	{
+		"No": "582",
+		"Sentence": "2 hours",
+		"Meaning": "2 tiếng"
+	},
+	{
+		"No": "583",
+		"Sentence": "A long time ago",
+		"Meaning": "Cách nay đã lâu"
+	},
+	{
+		"No": "584",
+		"Sentence": "All day",
+		"Meaning": "Suốt ngày"
+	},
+	{
+		"No": "585",
+		"Sentence": "Are they coming this evening?",
+		"Meaning": "Tối nay họ có tới không?"
+	},
+	{
+		"No": "586",
+		"Sentence": "Are you comfortable?",
+		"Meaning": "Bạn có thoải mái không?"
+	},
+	{
+		"No": "587",
+		"Sentence": "Are your children with you?",
+		"Meaning": "Con của bạn có đi với bạn không?"
+	},
+	{
+		"No": "588",
+		"Sentence": "As soon as possible",
+		"Meaning": "Càng sớm càng tốt"
+	},
+	{
+		"No": "589",
+		"Sentence": "At 3 o'clock in the afternoon",
+		"Meaning": "Lúc 3 giờ chiều"
+	},
+	{
+		"No": "590",
+		"Sentence": "At 5th street",
+		"Meaning": "Tại đường số 5"
+	},
+	{
+		"No": "591",
+		"Sentence": "At 7 o'clock at night",
+		"Meaning": "Lúc 7 giờ tối"
+	},
+	{
+		"No": "592",
+		"Sentence": "At 7 o'clock in the morning",
+		"Meaning": "Lúc 7 giờ sáng"
+	},
+	{
+		"No": "593",
+		"Sentence": "At what time did it happen?",
+		"Meaning": "Việc đó xảy ra lúc mấy giờ?"
+	},
+	{
+		"No": "594",
+		"Sentence": "Can I help you?",
+		"Meaning": "Tôi có thể giúp gì bạn?"
+	},
+	{
+		"No": "595",
+		"Sentence": "Do you have a swimming pool?",
+		"Meaning": "Bạn có hồ bơi không?"
+	},
+	{
+		"No": "596",
+		"Sentence": "Do you have this in size 11?",
+		"Meaning": "Bạn có món này cỡ 11 không?"
+	},
+	{
+		"No": "597",
+		"Sentence": "Do you think you'll be back by 11:30?",
+		"Meaning": "Bạn có nghĩ là bạn sẽ trở lại lúc 11:30 không?"
+	},
+	{
+		"No": "598",
+		"Sentence": "Every week",
+		"Meaning": "Hàng tuần"
+	},
+	{
+		"No": "599",
+		"Sentence": "Everyday I get up at 6AM",
+		"Meaning": "Hàng ngày tôi dậy lúc 6 giờ sáng"
+	},
+	{
+		"No": "600",
+		"Sentence": "Expiration date",
+		"Meaning": "Ngày hết hạn"
+	},
+	{
+		"No": "601",
+		"Sentence": "Have you been waiting long?",
+		"Meaning": "Bạn đã đợi lâu chưa?"
+	},
+	{
+		"No": "602",
+		"Sentence": "He'll be back in 20 minutes",
+		"Meaning": "Anh ta sẽ trở lại trong vòng 20 phút nữa"
+	},
+	{
+		"No": "603",
+		"Sentence": "His family is coming tomorrow",
+		"Meaning": "Gia đình anh ta sẽ tới vào ngày mai"
+	},
+	{
+		"No": "604",
+		"Sentence": "How about Saturday?",
+		"Meaning": "Còn thứ bảy thì sao?"
+	},
+	{
+		"No": "605",
+		"Sentence": "How long are you going to stay in\r\nCalifornia?",
+		"Meaning": "Bạn sẽ ở California bao lâu?"
+	},
+	{
+		"No": "606",
+		"Sentence": "How long are you going to stay?",
+		"Meaning": "Bạn sẽ ở bao lâu?"
+	},
+	{
+		"No": "607",
+		"Sentence": "How long will it take?",
+		"Meaning": "Sẽ mất bao lâu?"
+	},
+	{
+		"No": "608",
+		"Sentence": "How much altogether?",
+		"Meaning": "Tất cả bao nhiêu?"
+	},
+	{
+		"No": "609",
+		"Sentence": "How much will it cost?",
+		"Meaning": "Sẽ tốn bao nhiêu?"
+	},
+	{
+		"No": "610",
+		"Sentence": "I don't have enough money",
+		"Meaning": "Tôi không có đủ tiền"
+	},
+	{
+		"No": "611",
+		"Sentence": "I'm getting ready to go out",
+		"Meaning": "Tôi chuẩn bị đi"
+	},
+	{
+		"No": "612",
+		"Sentence": "I'm just looking",
+		"Meaning": "Tôi chỉ xem thôi (mua sắm)"
+	},
+	{
+		"No": "613",
+		"Sentence": "I'm worried too",
+		"Meaning": "Tôi cũng lo"
+	},
+	{
+		"No": "614",
+		"Sentence": "It  rained very hard today",
+		"Meaning": "Hôm nay trời mưa rất lớn"
+	},
+	{
+		"No": "615",
+		"Sentence": "It'll be cold this evening",
+		"Meaning": "Tối nay trời se lạnh"
+	},
+	{
+		"No": "616",
+		"Sentence": "It's 17 dollars",
+		"Meaning": "Gía 17 đồng"
+	},
+	{
+		"No": "617",
+		"Sentence": "It's 6AM",
+		"Meaning": "Bây giờ là 6 giờ sáng"
+	},
+	{
+		"No": "618",
+		"Sentence": "It's 8:45",
+		"Meaning": "Bây giờ là 8:45"
+	},
+	{
+		"No": "619",
+		"Sentence": "It's a quarter to 7",
+		"Meaning": "Bây giờ là 7 giờ thiếu 15"
+	},
+	{
+		"No": "620",
+		"Sentence": "It's going to snow today",
+		"Meaning": "Hôm nay trời sẽ mưa tuyết"
+	},
+	{
+		"No": "621",
+		"Sentence": "It's here",
+		"Meaning": "Nó đây"
+	},
+	{
+		"No": "622",
+		"Sentence": "It's there",
+		"Meaning": "Nó ở đó"
+	},
+	{
+		"No": "623",
+		"Sentence": "I've already seen it",
+		"Meaning": "Tôi đã xem nó"
+	},
+	{
+		"No": "624",
+		"Sentence": "John is going on vacation tomorrow",
+		"Meaning": "Ngày mai John sẽ đi nghỉ mát"
+	},
+	{
+		"No": "625",
+		"Sentence": "My birthday is August 27th",
+		"Meaning": "Sinh nhật của tôi là 27 tháng 8"
+	},
+	{
+		"No": "626",
+		"Sentence": "Now or later?",
+		"Meaning": "Bây giờ hoặc sau?"
+	},
+	{
+		"No": "627",
+		"Sentence": "October 22nd",
+		"Meaning": "22 tháng mười"
+	},
+	{
+		"No": "628",
+		"Sentence": "She wants to know when you're coming",
+		"Meaning": "Cô ta muốn biết khi nào bạn tới"
+	},
+	{
+		"No": "629",
+		"Sentence": "Sometimes I go to sleep at 11PM,\r\nsometimes at 11:30PM",
+		"Meaning": "Thỉnh thoảng tôi đi ngủ lúc 11 giờ tối,\r\nthỉnh thoảng 11:30"
+	},
+	{
+		"No": "630",
+		"Sentence": "The whole day",
+		"Meaning": "Cả ngày"
+	},
+	{
+		"No": "631",
+		"Sentence": "There's plenty of time",
+		"Meaning": "Có nhiều thời gian"
+	},
+	{
+		"No": "632",
+		"Sentence": "We're late",
+		"Meaning": "Chúng ta trễ"
+	},
+	{
+		"No": "633",
+		"Sentence": "What day are they coming over?",
+		"Meaning": "Ngày nào họ sẽ tới?"
+	},
+	{
+		"No": "634",
+		"Sentence": "What day of the week is it?",
+		"Meaning": "Hôm nay là thứ mấy?"
+	},
+	{
+		"No": "635",
+		"Sentence": "What is today's date?",
+		"Meaning": "Hôm nay ngày mấy?"
+	},
+	{
+		"No": "636",
+		"Sentence": "What time are they arriving?",
+		"Meaning": "Mấy giờ họ sẽ tới?"
+	},
+	{
+		"No": "637",
+		"Sentence": "What time did you get up?",
+		"Meaning": "Bạn đã thức dậy lúc mấy giờ?"
+	},
+	{
+		"No": "638",
+		"Sentence": "What time did you go to sleep?",
+		"Meaning": "Bạn đã đi ngủ lúc mấy giờ?"
+	},
+	{
+		"No": "639",
+		"Sentence": "What time did you wake up?",
+		"Meaning": "Bạn tỉnh giấc lúc mấy giờ?"
+	},
+	{
+		"No": "640",
+		"Sentence": "What time do you think you'll arrive?",
+		"Meaning": "Bạn nghĩ bạn sẽ tới lúc mấy giờ?"
+	},
+	{
+		"No": "641",
+		"Sentence": "What time does it start?",
+		"Meaning": "Mấy giờ nó bắt đầu?"
+	},
+	{
+		"No": "642",
+		"Sentence": "What time is it?",
+		"Meaning": "Bây giờ là mấy giờ?"
+	},
+	{
+		"No": "643",
+		"Sentence": "What's your religion?",
+		"Meaning": "Bạn theo tôn giáo nào?"
+	},
+	{
+		"No": "644",
+		"Sentence": "When are they coming?",
+		"Meaning": "Khi nào họ tới?"
+	},
+	{
+		"No": "645",
+		"Sentence": "When are you coming back?",
+		"Meaning": "Khi nào bạn trở lại?"
+	},
+	{
+		"No": "646",
+		"Sentence": "When are you going to pick up your\r\nfriend?",
+		"Meaning": "Khi nào bạn đón người bạn của bạn?"
+	},
+	{
+		"No": "647",
+		"Sentence": "When are you leaving?",
+		"Meaning": "Khi nào bạn ra đi?"
+	},
+	{
+		"No": "648",
+		"Sentence": "When are you moving?",
+		"Meaning": "Khi nào bạn chuyển đi?"
+	},
+	{
+		"No": "649",
+		"Sentence": "When I went to the store, they didn't\r\nhave any apples",
+		"Meaning": "Khi tôi tới cửa hàng,\r\nhọ không có táo"
+	},
+	{
+		"No": "650",
+		"Sentence": "When iis the next bus to Philidalphia?",
+		"Meaning": "Chuyến xe buýt kế tiếp đi Philadelphia khi nào?"
+	},
+	{
+		"No": "651",
+		"Sentence": "When is your birthday?",
+		"Meaning": "Sinh nhật bạn khi nào?"
+	},
+	{
+		"No": "652",
+		"Sentence": "When was the last time you talked to\r\nyour mother?",
+		"Meaning": "Bạn nói chuyện với mẹ bạn\r\nlần cuối khi nào?"
+	},
+	{
+		"No": "653",
+		"Sentence": "When will he be back?",
+		"Meaning": "Khi nào anh ta sẽ trở lại?"
+	},
+	{
+		"No": "654",
+		"Sentence": "When will it be ready?",
+		"Meaning": "Ki nào nó sẽ sẵn sàng?"
+	},
+	{
+		"No": "655",
+		"Sentence": "Where are you going to go?",
+		"Meaning": "Bạn sẽ đi đâu?"
+	},
+	{
+		"No": "656",
+		"Sentence": "6 dollars per hour",
+		"Meaning": "6 đô 1 giờ"
+	},
+	{
+		"No": "657",
+		"Sentence": "Are you waiting for someone?",
+		"Meaning": "Bạn đang chờ ai đó hả?"
+	},
+	{
+		"No": "658",
+		"Sentence": "Are you working today?",
+		"Meaning": "Hôm nay bạn có làm việc không?"
+	},
+	{
+		"No": "659",
+		"Sentence": "Bring me my shirt please",
+		"Meaning": "Làm ơn đưa giùm cái áo sơ mi của tôi"
+	},
+	{
+		"No": "660",
+		"Sentence": "Do you like to watch TV?",
+		"Meaning": "Bạn có thích xem tivi không?"
+	},
+	{
+		"No": "661",
+		"Sentence": "Do you like your boss?",
+		"Meaning": "Bạn có thích sếp của bạn?"
+	},
+	{
+		"No": "662",
+		"Sentence": "Have you finished studying?",
+		"Meaning": "Bạn đã học xong chưa?"
+	},
+	{
+		"No": "663",
+		"Sentence": "He works at a computer company in\r\nNew York",
+		"Meaning": "Anh ta làm việc tại một công ty máy tính ở\r\nNew York"
+	},
+	{
+		"No": "664",
+		"Sentence": "He's an Engineer",
+		"Meaning": "Anh ta là kỹ sư"
+	},
+	{
+		"No": "665",
+		"Sentence": "He's very hard working",
+		"Meaning": "Anh ta rất chăm chỉ"
+	},
+	{
+		"No": "666",
+		"Sentence": "How long have you worked here?",
+		"Meaning": "Bạn đã làm việc ở đây bao lâu?"
+	},
+	{
+		"No": "667",
+		"Sentence": "How many hours a week do you work?",
+		"Meaning": "Bạn làm việc mấy giờ một tuần?"
+	},
+	{
+		"No": "668",
+		"Sentence": "How much money do you have?",
+		"Meaning": "Bạn có bao nhiêu tiền?"
+	},
+	{
+		"No": "669",
+		"Sentence": "How was the trip?",
+		"Meaning": "Chuyến đi như thế nào?"
+	},
+	{
+		"No": "670",
+		"Sentence": "I forget",
+		"Meaning": "Tôi quên"
+	},
+	{
+		"No": "671",
+		"Sentence": "I still have a lot things to buy",
+		"Meaning": "Tôi còn nhiều thứ phải mua"
+	},
+	{
+		"No": "672",
+		"Sentence": "I'm good",
+		"Meaning": "Tôi khỏe"
+	},
+	{
+		"No": "673",
+		"Sentence": "I'm ready",
+		"Meaning": "Tôi sẵn sàng"
+	},
+	{
+		"No": "674",
+		"Sentence": "I've seen it",
+		"Meaning": "Tôi đã thấy nó"
+	},
+	{
+		"No": "675",
+		"Sentence": "What do you do for work?",
+		"Meaning": "Bạn đã làm nghề gì?"
+	},
+	{
+		"No": "676",
+		"Sentence": "What do your parents do for work?",
+		"Meaning": "Bố mẹ bạn làm nghề gì?"
+	},
+	{
+		"No": "677",
+		"Sentence": "What does he do for work?",
+		"Meaning": "Anh ta làm nghề gì?"
+	},
+	{
+		"No": "678",
+		"Sentence": "What does your father do for work?",
+		"Meaning": "Bố bạn làm nghề gì?"
+	},
+	{
+		"No": "679",
+		"Sentence": "What time do you go to work everyday?",
+		"Meaning": "Mỗi ngày bạn đi làm lúc mấy giờ?"
+	},
+	{
+		"No": "680",
+		"Sentence": "What's the matter?",
+		"Meaning": "Có chuyện gì vậy?"
+	},
+	{
+		"No": "681",
+		"Sentence": "When do you arrive in the U.S. ?",
+		"Meaning": "Khi nào bạn tới Mỹ?"
+	},
+	{
+		"No": "682",
+		"Sentence": "When do you get off work?",
+		"Meaning": "Khi nào bạn xong việc?"
+	},
+	{
+		"No": "683",
+		"Sentence": "Where did you put it?",
+		"Meaning": "Bạn đã đặt nó ở đâu?"
+	},
+	{
+		"No": "684",
+		"Sentence": "Where do you want to go?",
+		"Meaning": "Bạn muốn đi đâu?"
+	},
+	{
+		"No": "685",
+		"Sentence": "Where does it hurt?",
+		"Meaning": "Đau ở đâu?"
+	},
+	{
+		"No": "686",
+		"Sentence": "Be careful driving",
+		"Meaning": "Lái xe cẩn thận"
+	},
+	{
+		"No": "687",
+		"Sentence": "Can you translate this for me?",
+		"Meaning": "Bạn có thể dịch cho tôi cái này được không?"
+	},
+	{
+		"No": "688",
+		"Sentence": "Chicago is very different from Boston",
+		"Meaning": "Chicago rất khác Boston"
+	},
+	{
+		"No": "689",
+		"Sentence": "Don't worry",
+		"Meaning": "Đừng lo"
+	},
+	{
+		"No": "690",
+		"Sentence": "Everyone knows it",
+		"Meaning": "Mọi người biết điều đó"
+	},
+	{
+		"No": "691",
+		"Sentence": "Everything is ready",
+		"Meaning": "Mọi thứ đã sẵn sàng"
+	},
+	{
+		"No": "692",
+		"Sentence": "Excellent",
+		"Meaning": "Xuất sắc"
+	},
+	{
+		"No": "693",
+		"Sentence": "From time to time",
+		"Meaning": "Thỉnh thoảng"
+	},
+	{
+		"No": "694",
+		"Sentence": "Good idea",
+		"Meaning": "Ý kiến hay"
+	},
+	{
+		"No": "695",
+		"Sentence": "He likes it very much",
+		"Meaning": "Anh ta thích nó lắm"
+	},
+	{
+		"No": "696",
+		"Sentence": "Help!",
+		"Meaning": "Giúp tôi!"
+	},
+	{
+		"No": "697",
+		"Sentence": "He's coming soon",
+		"Meaning": "Anh ta sắp tới"
+	},
+	{
+		"No": "698",
+		"Sentence": "He's right",
+		"Meaning": "Anh ta đúng"
+	},
+	{
+		"No": "699",
+		"Sentence": "He's very annoying",
+		"Meaning": "Anh ta quấy rối quá"
+	},
+	{
+		"No": "700",
+		"Sentence": "He's very famous",
+		"Meaning": "Anh ta rất nổi tiếng"
+	},
+	{
+		"No": "701",
+		"Sentence": "How are you?",
+		"Meaning": "Bạn khỏe không?"
+	},
+	{
+		"No": "702",
+		"Sentence": "How's work going?",
+		"Meaning": "Việc làm thế nào?"
+	},
+	{
+		"No": "703",
+		"Sentence": "Hurry!",
+		"Meaning": "Nhanh lên"
+	},
+	{
+		"No": "704",
+		"Sentence": "I ate already",
+		"Meaning": "Tôi đã ăn rồi"
+	},
+	{
+		"No": "705",
+		"Sentence": "I can't hear you",
+		"Meaning": "Tôi không thể nghe bạn nói"
+	},
+	{
+		"No": "706",
+		"Sentence": "I don't know how to use it",
+		"Meaning": "Tôi không biết cách dùng nó"
+	},
+	{
+		"No": "707",
+		"Sentence": "I don't like him",
+		"Meaning": "Tôi không thích anh ta"
+	},
+	{
+		"No": "708",
+		"Sentence": "I don't like it",
+		"Meaning": "Tôi không thích nó"
+	},
+	{
+		"No": "709",
+		"Sentence": "I don't speak very well",
+		"Meaning": "Tôi không nói giỏi lắm"
+	},
+	{
+		"No": "710",
+		"Sentence": "I don't understand",
+		"Meaning": "Tôi không hiểu"
+	},
+	{
+		"No": "711",
+		"Sentence": "I don't want it",
+		"Meaning": "Tôi không muốn nó"
+	},
+	{
+		"No": "712",
+		"Sentence": "I don't want that",
+		"Meaning": "Tôi không muốn cái đó"
+	},
+	{
+		"No": "713",
+		"Sentence": "I don't want to bother you",
+		"Meaning": "Tôi không muốn làm phiền bạn"
+	},
+	{
+		"No": "714",
+		"Sentence": "I feel good",
+		"Meaning": "Tôi cảm thấy khỏe"
+	},
+	{
+		"No": "715",
+		"Sentence": "I get off of work at 6",
+		"Meaning": "Tôi xong việc lúc 6 giờ"
+	},
+	{
+		"No": "716",
+		"Sentence": "I have a headache",
+		"Meaning": "Tôi bị nhức đầu"
+	},
+	{
+		"No": "717",
+		"Sentence": "I hope you and your wife have a nice trip",
+		"Meaning": "Tôi hy vọng bạn và vợ bạn có một chuyến đi thú vị"
+	},
+	{
+		"No": "718",
+		"Sentence": "I know",
+		"Meaning": "Tôi biết"
+	},
+	{
+		"No": "719",
+		"Sentence": "I like her",
+		"Meaning": "Tôi thích cô ta"
+	},
+	{
+		"No": "720",
+		"Sentence": "I lost my watch",
+		"Meaning": "Tôi bị mất đồng hồ"
+	},
+	{
+		"No": "721",
+		"Sentence": "I love you",
+		"Meaning": "Tôi yêu bạn"
+	},
+	{
+		"No": "722",
+		"Sentence": "I need to change clothes",
+		"Meaning": "Tôi cần thay quần áo"
+	},
+	{
+		"No": "723",
+		"Sentence": "I need to go home",
+		"Meaning": "Tôi cần về nhà"
+	},
+	{
+		"No": "724",
+		"Sentence": "I only want  a snack",
+		"Meaning": "Tôi chỉ cần món ăn nhẹ"
+	},
+	{
+		"No": "725",
+		"Sentence": "I think it tastes good",
+		"Meaning": "Tôi nghĩ nó ngon"
+	},
+	{
+		"No": "726",
+		"Sentence": "I think it's very good",
+		"Meaning": "Tôi nghĩ nó rất tốt"
+	},
+	{
+		"No": "727",
+		"Sentence": "I thought the clothes were cheaper",
+		"Meaning": "Tôi nghĩ quần áo rẻ hơn"
+	},
+	{
+		"No": "728",
+		"Sentence": "I was about to leave the restaurant when\r\nmy friends arrived",
+		"Meaning": "Tôi sắp rời nhà hàng khi những người bạn của tôi\r\ntới"
+	},
+	{
+		"No": "729",
+		"Sentence": "I'd like to go for a walk",
+		"Meaning": "Tôi muốn đi dạo"
+	},
+	{
+		"No": "730",
+		"Sentence": "if you need my help, please let me know",
+		"Meaning": "Nếu bạn cần tôi giúp đỡ, làm ơn cho tôi biết"
+	},
+	{
+		"No": "731",
+		"Sentence": "I'll call you when I leave",
+		"Meaning": "Tôi sẽ gọi bạn khi tôi ra đi"
+	},
+	{
+		"No": "732",
+		"Sentence": "I'll come back later",
+		"Meaning": "Tôi sẽ trở lại sau"
+	},
+	{
+		"No": "733",
+		"Sentence": "I'll pay",
+		"Meaning": "Tôi sẽ trả"
+	},
+	{
+		"No": "734",
+		"Sentence": "I'll take it",
+		"Meaning": "Tôi sẽ mua nó"
+	},
+	{
+		"No": "735",
+		"Sentence": "I'll take you to the bus stop",
+		"Meaning": "Tôi sẽ đưa bạn tới trạm xe buýt"
+	},
+	{
+		"No": "736",
+		"Sentence": "I'm an American",
+		"Meaning": "Tôi là một người Mỹ"
+	},
+	{
+		"No": "737",
+		"Sentence": "I'm cleaning my room",
+		"Meaning": "Tôi đang lau chùi phòng"
+	},
+	{
+		"No": "738",
+		"Sentence": "I'm cold",
+		"Meaning": "Tôi lạnh"
+	},
+	{
+		"No": "739",
+		"Sentence": "I'm coming to pick you up",
+		"Meaning": "Tôi đang tới đón bạn"
+	},
+	{
+		"No": "740",
+		"Sentence": "I'm going to leave",
+		"Meaning": "Tôi sắp đi"
+	},
+	{
+		"No": "741",
+		"Sentence": "I'm good, and you?",
+		"Meaning": "Tôi khỏe, còn bạn?"
+	},
+	{
+		"No": "742",
+		"Sentence": "I'm happy",
+		"Meaning": "Tôi vui"
+	},
+	{
+		"No": "743",
+		"Sentence": "I'm hungry",
+		"Meaning": "Tôi đói"
+	},
+	{
+		"No": "744",
+		"Sentence": "I'm married",
+		"Meaning": "Tôi có gia đình"
+	},
+	{
+		"No": "745",
+		"Sentence": "I'm not busy",
+		"Meaning": "Tôi không bận"
+	},
+	{
+		"No": "746",
+		"Sentence": "I'm not married",
+		"Meaning": "Tôi không có gia đình"
+	},
+	{
+		"No": "747",
+		"Sentence": "I'm not ready yet",
+		"Meaning": "Tôi chưa sẵn sàng"
+	},
+	{
+		"No": "748",
+		"Sentence": "I'm not sure",
+		"Meaning": "Tôi không chắc"
+	},
+	{
+		"No": "749",
+		"Sentence": "I'm sorry, we're sold out",
+		"Meaning": "Tôi rất tiếc, chúng tôi hết hàng"
+	},
+	{
+		"No": "750",
+		"Sentence": "I'm thirsty",
+		"Meaning": "Tôi khát"
+	},
+	{
+		"No": "751",
+		"Sentence": "I'm very busy. I don't have time now",
+		"Meaning": "Tôi rất bận. Bây giờ tôi không có thời gian"
+	},
+	{
+		"No": "752",
+		"Sentence": "Is Mr. Smith an American?",
+		"Meaning": "Ông Smith có phải là người Mỹ không?"
+	},
+	{
+		"No": "753",
+		"Sentence": "Is that enough?",
+		"Meaning": "Như vậy đủ không?"
+	},
+	{
+		"No": "754",
+		"Sentence": "It's longer than 2 miles",
+		"Meaning": "Nó dài hơn 2 dặm"
+	},
+	{
+		"No": "755",
+		"Sentence": "I've been here for two days",
+		"Meaning": "Tôi đã ở đây 2 ngày"
+	},
+	{
+		"No": "756",
+		"Sentence": "I've heard Texas is a beautiful place",
+		"Meaning": "Tôi đã nghe Texas là một nơi đẹp"
+	},
+	{
+		"No": "757",
+		"Sentence": "I've never seen that before",
+		"Meaning": "Tôi chưa bao giờ thấy cái đó trước đây"
+	},
+	{
+		"No": "758",
+		"Sentence": "Just little",
+		"Meaning": "Một ít thôi"
+	},
+	{
+		"No": "759",
+		"Sentence": "Just a moment",
+		"Meaning": "Chờ một chút"
+	},
+	{
+		"No": "760",
+		"Sentence": "Let me check",
+		"Meaning": "Để tôi kiểm tra"
+	},
+	{
+		"No": "761",
+		"Sentence": "Let me think about it",
+		"Meaning": "Để tôi suy nghĩ về việc đó"
+	},
+	{
+		"No": "762",
+		"Sentence": "Let's go have a look",
+		"Meaning": "Chúng ta hãy đi xem"
+	},
+	{
+		"No": "763",
+		"Sentence": "Let's practice English",
+		"Meaning": "Chúng ta hãy thực hành tiếng anh"
+	},
+	{
+		"No": "764",
+		"Sentence": "May I speak to Mrs. Smith please?",
+		"Meaning": "Tôi có thể nói với bà Smith không, xin vui lòng?"
+	},
+	{
+		"No": "765",
+		"Sentence": "More than that",
+		"Meaning": "Hơn thế"
+	},
+	{
+		"No": "766",
+		"Sentence": "Never mind",
+		"Meaning": "Đừng bận tâm"
+	},
+	{
+		"No": "767",
+		"Sentence": "Next time",
+		"Meaning": "Kz tới"
+	},
+	{
+		"No": "768",
+		"Sentence": "No, thank you",
+		"Meaning": "Không, cảm ơn"
+	},
+	{
+		"No": "769",
+		"Sentence": "No",
+		"Meaning": "Không"
+	},
+	{
+		"No": "770",
+		"Sentence": "Nonsense",
+		"Meaning": "Vô lý"
+	},
+	{
+		"No": "771",
+		"Sentence": "Not recently",
+		"Meaning": "Không phải lúc gần đây"
+	},
+	{
+		"No": "772",
+		"Sentence": "Not yet",
+		"Meaning": "Chưa"
+	},
+	{
+		"No": "773",
+		"Sentence": "Nothing else",
+		"Meaning": "Không còn gì khác"
+	},
+	{
+		"No": "774",
+		"Sentence": "Of course",
+		"Meaning": "Dĩ nhiên"
+	},
+	{
+		"No": "775",
+		"Sentence": "Okay",
+		"Meaning": "Được"
+	},
+	{
+		"No": "776",
+		"Sentence": "Please fill out this form",
+		"Meaning": "Làm ơn điền vào đơn này"
+	},
+	{
+		"No": "777",
+		"Sentence": "Please take me to this address",
+		"Meaning": "Làm ơn đưa tôi tới địa chỉ này"
+	},
+	{
+		"No": "778",
+		"Sentence": "Please write it down",
+		"Meaning": "Làm ơn viết ra giấy"
+	},
+	{
+		"No": "779",
+		"Sentence": "Really?",
+		"Meaning": "Thực sao?"
+	},
+	{
+		"No": "780",
+		"Sentence": "Right here",
+		"Meaning": "Ngay đây"
+	},
+	{
+		"No": "781",
+		"Sentence": "Right there",
+		"Meaning": "Ngay đó"
+	},
+	{
+		"No": "782",
+		"Sentence": "See you later",
+		"Meaning": "Gặp bạn sau"
+	},
+	{
+		"No": "783",
+		"Sentence": "See you tomorrow",
+		"Meaning": "Gặp bạn ngày mai"
+	},
+	{
+		"No": "784",
+		"Sentence": "See you tonight",
+		"Meaning": "Gặp bạn tối nay"
+	},
+	{
+		"No": "785",
+		"Sentence": "She's pretty",
+		"Meaning": "Cô ta đẹp"
+	},
+	{
+		"No": "786",
+		"Sentence": "Sorry to bother you",
+		"Meaning": "Xin lỗi làm phiền bạn"
+	},
+	{
+		"No": "787",
+		"Sentence": "Stop!",
+		"Meaning": "Dừng lại!"
+	},
+	{
+		"No": "788",
+		"Sentence": "Take a chance",
+		"Meaning": "Thử vận may"
+	},
+	{
+		"No": "789",
+		"Sentence": "Take it outside",
+		"Meaning": "Mang nó ra ngoài"
+	},
+	{
+		"No": "790",
+		"Sentence": "Tell me",
+		"Meaning": "Nói với tôi"
+	},
+	{
+		"No": "791",
+		"Sentence": "Thank you miss",
+		"Meaning": "Cảm ơn cô"
+	},
+	{
+		"No": "792",
+		"Sentence": "Thank you sir",
+		"Meaning": "Cám ơn ông"
+	},
+	{
+		"No": "793",
+		"Sentence": "Thank you very much",
+		"Meaning": "Cám ơn rất nhiều"
+	},
+	{
+		"No": "794",
+		"Sentence": "Thanks for everything",
+		"Meaning": "Cảm ơn về mọi việc"
+	},
+	{
+		"No": "795",
+		"Sentence": "Thanks for your help",
+		"Meaning": "Cám ơn về sự giúp đỡ của bạn"
+	},
+	{
+		"No": "796",
+		"Sentence": "That looks great",
+		"Meaning": "Cái đó trông tuyệt"
+	},
+	{
+		"No": "797",
+		"Sentence": "That smells bad",
+		"Meaning": "Cái đó ngửi hôi"
+	},
+	{
+		"No": "798",
+		"Sentence": "That's alright",
+		"Meaning": "Được thôi"
+	},
+	{
+		"No": "799",
+		"Sentence": "That's enough",
+		"Meaning": "Như vậy đủ rồi"
+	},
+	{
+		"No": "800",
+		"Sentence": "That's fine",
+		"Meaning": "Như vậy tốt rồi"
+	},
+	{
+		"No": "801",
+		"Sentence": "That's it",
+		"Meaning": "Như vậy đó"
+	},
+	{
+		"No": "802",
+		"Sentence": "That's not fair",
+		"Meaning": "Như vậy không công bằng"
+	},
+	{
+		"No": "803",
+		"Sentence": "That's not right",
+		"Meaning": "Như vậy không đúng"
+	},
+	{
+		"No": "804",
+		"Sentence": "That's right",
+		"Meaning": "Đúng rồi"
+	},
+	{
+		"No": "805",
+		"Sentence": "That's too bad",
+		"Meaning": "Như vậy quá tệ"
+	},
+	{
+		"No": "806",
+		"Sentence": "That's too many",
+		"Meaning": "Như vậy quá nhiều"
+	},
+	{
+		"No": "807",
+		"Sentence": "The book is under the table",
+		"Meaning": "Quyển sách ở dưới cái bàn"
+	},
+	{
+		"No": "808",
+		"Sentence": "They'll be right back",
+		"Meaning": "Họ sẽ trở lại ngay"
+	},
+	{
+		"No": "809",
+		"Sentence": "They're the same",
+		"Meaning": "Chúng giống nhau"
+	},
+	{
+		"No": "810",
+		"Sentence": "They're very busy",
+		"Meaning": "Họ rất bận"
+	},
+	{
+		"No": "811",
+		"Sentence": "This doesn't work",
+		"Meaning": "Cái này không hoạt động"
+	},
+	{
+		"No": "812",
+		"Sentence": "This is very difficult",
+		"Meaning": "Cái này rất khó"
+	},
+	{
+		"No": "813",
+		"Sentence": "This is very important",
+		"Meaning": "Điều này rất quan trọng"
+	},
+	{
+		"No": "814",
+		"Sentence": "Try it",
+		"Meaning": "Thử nó"
+	},
+	{
+		"No": "815",
+		"Sentence": "Very good, thanks",
+		"Meaning": "Rất tốt, cám ơn"
+	},
+	{
+		"No": "816",
+		"Sentence": "We like it very much",
+		"Meaning": "Chúng tôi thích nó lắm"
+	},
+	{
+		"No": "817",
+		"Sentence": "Would you take a message please?",
+		"Meaning": "Bạn nhận giùm một tin nhắn được không?"
+	},
+	{
+		"No": "818",
+		"Sentence": "Yes, really",
+		"Meaning": "Vâng, thực sự"
+	},
+	{
+		"No": "819",
+		"Sentence": "Your things are all here",
+		"Meaning": "Tất cả đồ của bạn ở đây"
+	},
+	{
+		"No": "820",
+		"Sentence": "You're beautiful",
+		"Meaning": "Bạn đẹp"
+	},
+	{
+		"No": "821",
+		"Sentence": "You're very nice",
+		"Meaning": "Bạn rất dễ thương"
+	},
+	{
+		"No": "822",
+		"Sentence": "You're very smart",
+		"Meaning": "Bạn rất thông minh"
+	},
+	{
+		"No": "823",
+		"Sentence": "Are you allergic to anything?",
+		"Meaning": "Bạn có dị ứng với thứ gì không?"
+	},
+	{
+		"No": "824",
+		"Sentence": "Are you ready?",
+		"Meaning": "Bạn sẵn sàng chưa?"
+	},
+	{
+		"No": "825",
+		"Sentence": "Call me",
+		"Meaning": "Gọi điện cho tôi"
+	},
+	{
+		"No": "826",
+		"Sentence": "Did you sent me flowers?",
+		"Meaning": "Bạn đã gửi hoa cho tôi hả?"
+	},
+	{
+		"No": "827",
+		"Sentence": "Do you sell batteries?",
+		"Meaning": "Bạn có bán pin không?"
+	},
+	{
+		"No": "828",
+		"Sentence": "I don't care",
+		"Meaning": "Tôi không cần"
+	},
+	{
+		"No": "829",
+		"Sentence": "I give up",
+		"Meaning": "Tôi bỏ cuộc"
+	},
+	{
+		"No": "830",
+		"Sentence": "I got in an accident",
+		"Meaning": "Tôi gặp tai nạn"
+	},
+	{
+		"No": "831",
+		"Sentence": "I have a cold",
+		"Meaning": "Tôi bị cảm"
+	},
+	{
+		"No": "832",
+		"Sentence": "I have one in my car",
+		"Meaning": "Tôi có một cái trong xe"
+	},
+	{
+		"No": "833",
+		"Sentence": "I made this cake",
+		"Meaning": "Tôi làm cái bánh này"
+	},
+	{
+		"No": "834",
+		"Sentence": "I still have a lot to do",
+		"Meaning": "Tôi còn nhiều thứ phải làm"
+	},
+	{
+		"No": "835",
+		"Sentence": "I still haven't decided",
+		"Meaning": "Tôi vẫn chưa quyết định"
+	},
+	{
+		"No": "836",
+		"Sentence": "I'm a teacher",
+		"Meaning": "Tôi là giáo viên"
+	},
+	{
+		"No": "837",
+		"Sentence": "I'm self-employed",
+		"Meaning": "Tôi tự làm chủ"
+	},
+	{
+		"No": "838",
+		"Sentence": "It depends on the weather",
+		"Meaning": "Tùy vào thời tiết"
+	},
+	{
+		"No": "839",
+		"Sentence": "It's verry cold today",
+		"Meaning": "Hôm nay trời rất lạnh"
+	},
+	{
+		"No": "840",
+		"Sentence": "My luggage is missing",
+		"Meaning": "Hành lý của tôi bị thất lạc"
+	},
+	{
+		"No": "841",
+		"Sentence": "My stomach hurts",
+		"Meaning": "Tôi đau bụng"
+	},
+	{
+		"No": "842",
+		"Sentence": "My throat is sore",
+		"Meaning": "Tôi đau họng"
+	},
+	{
+		"No": "843",
+		"Sentence": "My watch has been stolen",
+		"Meaning": "Đồng hồ tôi đã bị đánh cắp"
+	},
+	{
+		"No": "844",
+		"Sentence": "Take this medicine",
+		"Meaning": "Dùng thuốc này"
+	},
+	{
+		"No": "845",
+		"Sentence": "The accident happened at the\r\nintersection",
+		"Meaning": "Tai nạn xảy ra tại giao lộ"
+	},
+	{
+		"No": "846",
+		"Sentence": "There has been a car accident",
+		"Meaning": "Đã có một tai nạn xe hơi"
+	},
+	{
+		"No": "847",
+		"Sentence": "Where can I exchange U.S. dollars?",
+		"Meaning": "Tôi có thể đổi đô la Mỹ ở đâu?"
+	},
+	{
+		"No": "848",
+		"Sentence": "Where do you work?",
+		"Meaning": "Bạn làm việc ở đâu?"
+	},
+	{
+		"No": "849",
+		"Sentence": "Where's the nearest hospital?",
+		"Meaning": "Bệnh viện gần nhất ở đâu?"
+	},
+	{
+		"No": "850",
+		"Sentence": "Where's the post office?",
+		"Meaning": "Bưu điện ở đâu?"
+	}
+]
